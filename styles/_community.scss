@@ -1,0 +1,114 @@
+
+    .communityContainer{
+        display: flex;
+        flex-direction: column;
+        .top-container{
+            .communityTitle{
+                margin-top: .3em;
+                margin-left: .3em;
+                font-size: 3.4em;
+                font-family: 'Roboto Mono', monospace;
+            }
+            .apply-to-podcast{
+                margin-left: 2em;
+                p{
+                    width: 80vw;
+                    font-size: 1em;
+                    font-family: 'Lato', sans-serif;
+                    font-weight: 200;
+                }
+                button {
+                    margin-top: 0%;
+                    background-color: #23364D;
+                    border: none;
+                    border-radius: 17px;
+                    color: white;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    font-family: 'Roboto Mono', monospace;
+                  }
+            }
+        }
+        
+        .blog-container{
+            margin-top: 1em;
+            display: flex;
+            flex-direction: row;
+            padding-top: 2em;
+            padding-left: 3em;
+            padding-right: 7em;
+       
+            .line-container{
+                margin-bottom: 0px;
+                height:450p
+                img{
+                    height: 450px;
+                }
+            }
+            .poem-container{
+                
+                p{
+                    text-align: center;
+                    font-family: 'Lato', sans-serif;
+                    font-weight: 200;
+                }
+            }
+        }
+    
+    }
+   
+    
+    @media (max-width: 800px) {
+        .communityContainer{
+            .top-container{
+                margin-bottom: 0px;
+                padding-bottom: 0px;
+            }
+        .blog-container{
+            display: flex;
+            flex-direction: column;
+            padding-left: 1em;
+            padding-right: 1em;
+            margin-top: 0px;
+            .line-container{
+                height: 20vh;
+                margin-left: 45%;
+                margin-bottom: 40px;
+                img{
+                    transform: rotate(-270deg);
+
+        /* Legacy vendor prefixes that you probably don't need... */
+      
+        /* Safari */
+        -webkit-transform: rotate(-270deg);
+      
+        /* Firefox */
+        -moz-transform: rotate(-270deg);
+      
+        /* IE */
+        -ms-transform: rotate(-270deg);
+      
+        /* Opera */
+        -o-transform: rotate(-270deg);
+      
+        /* Internet Explorer */
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+                    height: 250px;
+                }
+            }
+            .poem-container{
+                height: 400px;
+                
+                p{
+                    text-align: center;
+                    font-family: 'Lato', sans-serif;
+                    font-weight: 200;
+                }
+            }
+        }
+    }
+}
+
