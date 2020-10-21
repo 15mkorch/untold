@@ -1,11 +1,13 @@
 import Head from 'next/head';
-//import Communityheader from '../components/Communityheader';
+import Navbar from '../components/navbar';
 
 export default function Art() {
     return (
         <div>
             <div className="background">
+
                 <div className="artcontainer">
+                    <Navbar />
                     <img className="cameraphoto" src="camera.png" />
 
                     <div className="right">

@@ -2,6 +2,7 @@
     .communityContainer{
         display: flex;
         flex-direction: column;
+     
         .top-container{
             .communityTitle{
                 margin-top: .3em;
@@ -11,8 +12,10 @@
             }
             .apply-to-podcast{
                 margin-left: 2em;
+                width: 70vw;
+                margin-left: 30px;
                 p{
-                    width: 80vw;
+                    
                     font-size: 1em;
                     font-family: 'Lato', sans-serif;
                     font-weight: 200;
@@ -43,10 +46,13 @@
        
             .line-container{
                 margin-bottom: 0px;
-                height:450p
-                img{
-                    height: 450px;
+                height:450px;
+                .mobileline{
+                    display: none;
                 }
+            }
+            .desktopline{
+                height: 450px;
             }
             .poem-container{
                 
@@ -64,6 +70,7 @@
     @media (max-width: 800px) {
         .communityContainer{
             .top-container{
+                
                 margin-bottom: 0px;
                 padding-bottom: 0px;
             }
@@ -74,33 +81,18 @@
             padding-right: 1em;
             margin-top: 0px;
             .line-container{
-                height: 20vh;
-                margin-left: 45%;
-                margin-bottom: 40px;
-                img{
-                    transform: rotate(-270deg);
-
-        /* Legacy vendor prefixes that you probably don't need... */
-      
-        /* Safari */
-        -webkit-transform: rotate(-270deg);
-      
-        /* Firefox */
-        -moz-transform: rotate(-270deg);
-      
-        /* IE */
-        -ms-transform: rotate(-270deg);
-      
-        /* Opera */
-        -o-transform: rotate(-270deg);
-      
-        /* Internet Explorer */
-        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-                    height: 250px;
+                margin-left: auto;
+                margin-right: auto;
+                height: 50px;
+                .desktopline{
+                    display: none;
+                }
+                .mobileline{
+                    width: 300px;
+                    display: initial;
                 }
             }
             .poem-container{
-                height: 400px;
                 
                 p{
                     text-align: center;

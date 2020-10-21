@@ -22,13 +22,19 @@
         position: fixed;
         z-index: 1;
         height: 100vh;
-        right: 10%;
-      
+        right: 5%;
+        .logo{
+            height: 60px;
+        }
+        a{
+            text-decoration: none !important;
+        }
+        
             h1{
                 display: inline;
                 padding: 1em;
                 color: white;
-                text-decoration: none;
+               
             }
            
             
@@ -40,12 +46,12 @@
     }
 }
 
-
 @media (max-width: 800px) {  
     .desktopNav{
         display: none;
     }
     .mobileNav{
+        z-index: 2;
         #panel{
             .menu-button{
                 background-color: transparent;
@@ -61,10 +67,10 @@
         }
     }
     #vertical-options-full {
-        background-color: rgba(165, 137, 110, .6);
+        z-index: 2;
+        background-color: black;
         width: 100vw;
         height: 100vh;
-        margin: auto;
         position: absolute;
         transition-duration: 200ms;
             .list{

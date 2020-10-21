@@ -22,7 +22,8 @@ export default function Community() {
                 <div className="blog-container">
 
                     <div className="line-container">
-                        <img src="line.png" />
+                        <img className="desktopline" src="line.png" />
+                        <img className="mobileline" src="mobileline.png" />
                     </div>
                     <div className="poem-container">
                         <p>I didn’t know there was something wrong. All I knew is that it wasn’t right— my life, the way I grew up.</p>
@@ -35,8 +36,9 @@ export default function Community() {
                         <p>Finding those people changed my life. If you identify with the above, I pray that you feel loved, seen, and understand that your experience is appreciated. And if you don’t, I hope your eyes are opened to hidden demons in our world.</p>
 
                     </div>
-                    <div className="line-container">
-                        <img src="line.png" />
+                    <div className="line-container" id="bottom-line">
+                        <img className="desktopline" src="line.png" />
+                        <img className="mobileline" src="mobileline.png" />
                     </div>
                 </div>
             </div>

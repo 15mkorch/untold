@@ -8,6 +8,9 @@ export default function Navbar() {
 
         <div className="rotate" id="navbar">
             <div className="desktopNav">
+                <Link href="/">
+                    <a title="Home"><img className="logo" src="samplelogo.png" /></a>
+                </Link>
 
                 <Link href="/Community">
                     <a title="Community"><h1>Community</h1></a>
@@ -25,8 +28,8 @@ export default function Navbar() {
                     {(open) &&
                         <div id="vertical-options-full">
                             <div className="list">
-                                <Link href="/index">
-                                    <a title="Home"><h1 onClick={() => { setOpen(false) }}>Home</h1></a>
+                                <Link href="/">
+                                    <a title="index"><h1 onClick={() => { setOpen(false) }}>Home</h1></a>
                                 </Link><Link href="/Story">
                                     <a title="Story"><h1 onClick={() => { setOpen(false) }}>Story</h1></a>
                                 </Link>
