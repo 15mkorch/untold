@@ -20,7 +20,7 @@
         filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
         display: inline-block;
         position: fixed;
-        z-index: 1;
+        z-index: 6;
         height: 100vh;
         right: 5%;
         .logo{
@@ -74,7 +74,7 @@
         position: absolute;
         transition-duration: 200ms;
             .list{
-                margin-top: 50%;
+                margin-top: 40%;
                 h1{
                     text-align: center;
                     color: white;

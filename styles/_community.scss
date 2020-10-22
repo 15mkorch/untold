@@ -20,7 +20,11 @@
                     font-family: 'Lato', sans-serif;
                     font-weight: 200;
                 }
-                button {
+                .podcastIcon{
+                    height: 50px;
+                    margin-left: 1em;
+                }
+                    button {
                     margin-top: 0%;
                     background-color: #23364D;
                     border: none;
@@ -73,6 +77,17 @@
                 
                 margin-bottom: 0px;
                 padding-bottom: 0px;
+                .buttons{
+                    width: 100vw;
+                    align-items: center;
+                    display: flex;
+                    button{
+                        width: 45vw;
+                        padding: 5px;
+                    }
+                }
+                
+                
             }
         .blog-container{
             display: flex;
