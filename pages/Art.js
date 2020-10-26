@@ -9,13 +9,7 @@ export default function Art() {
                 <link rel="icon" href="/favicon.ico" />
 
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RX3EQ6M4XE"></script>
-                <script>
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments)}
-                    gtag('js', new Date());
 
-                    gtag('config', 'G-RX3EQ6M4XE');
-                </script>
             </Head>
             <div className="artcontainer">
                 <Navbar />

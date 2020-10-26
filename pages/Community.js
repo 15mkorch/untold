@@ -7,13 +7,7 @@ export default function Community() {
             <Head>
                 <title>The Untold Story Project-- Community</title>
                 <link rel="icon" href="/favicon.ico" />
-                <script>
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments)}
-                    gtag('js', new Date());
 
-                    gtag('config', 'G-RX3EQ6M4XE');
-                </script>
             </Head>
             <div className="communityContainer">
                 <Navbar />

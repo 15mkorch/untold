@@ -7,12 +7,7 @@ export default function Art() {
             <Head>
                 <title>The Untold Story Project- Story</title>
                 <link rel="icon" href="/favicon.ico" />
-                <script>
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments)}
-                    gtag('js', new Date());
-                    gtag('config', 'G-RX3EQ6M4XE');
-        </script>
+
             </Head>
             <Navbar />
             <div className="text-panel">
