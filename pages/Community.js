@@ -7,6 +7,13 @@ export default function Community() {
             <Head>
                 <title>The Untold Story Project-- Community</title>
                 <link rel="icon" href="/favicon.ico" />
+                <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments)}
+                    gtag('js', new Date());
+
+                    gtag('config', 'G-RX3EQ6M4XE');
+                </script>
             </Head>
             <div className="communityContainer">
                 <Navbar />
@@ -16,7 +23,7 @@ export default function Community() {
                         <p>Welcome to a community that values stories that often go untold in our homes— stories of abuse, trauma, narcissism-- the list goes on. Each guest has the option to remain anonymos so that the Untold Project can remaind a place of full freedom for all invovled. I'm thankful for each friend on our podcast and blog who has agreed to step out and share their story so that we may come together in community to feel seen, loved, educated, and to some extend understood.</p>
                         <p className="italics">Have an untold story you'd like to share?</p>
                         <div className="buttons">
-                            <button href="https://mary230542.typeform.com/to/K55ckRqP" target="blank">Apply to our podcast</button>
+                            <a href="https://mary230542.typeform.com/to/K55ckRqP" target="blank"><button >Apply to our podcast</button></a>
                             <a target="blank" href="https://podcasts.apple.com/us/podcast/the-untold-story-project/id1536527419"><img className="podcastIcon" src="apple.png" /></a>
                             <a target="blank" href="https://open.spotify.com/show/5vUl6twP1NZZ1jxg74Qqwb?si=4jE2H3q6RSCXnJwFooh1pQ"><img className="podcastIcon" src="spotify.png" /></a>
                         </div>

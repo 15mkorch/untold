@@ -23,6 +23,7 @@ html, body {
       display: flex;
       flex-direction: column;
       width: 40%;
+      z-index: 2;
       h1{
         font-family: 'Roboto Mono', monospace;
         font-size: 70px;
@@ -34,7 +35,7 @@ html, body {
         margin-left: 17%;
         font-size: 25px;
         margin-top: 1em;
-        width: 50vw;
+        width: 40vw;
       }
         
       
