@@ -22,6 +22,7 @@ export default function Home() {
         <div>
           <h1> Untold </h1>
           <h2>Believing in the power of the untold story</h2>
+          <a href="https://mary230542.typeform.com/to/K55ckRqP" target="blank"><button >Join our Community</button></a>
         </div>
       </div>
       <img className="picture" src="/home_image.png" />
