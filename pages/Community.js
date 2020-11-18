@@ -17,7 +17,7 @@ export default function Community() {
                         <p>Welcome to a community that values stories that often go untold-- tories of abuse, trauma, broken relationships, and narcissism that exist behind the curtains of our homes. Each guest has the option to remain anonymous in oder to creae a space of full freedom. In this community I hope you feel seen, loved, educated, and to some extend understood.</p>
                         <p className="italics">Have an untold story you'd like to share? E-mail mary@theglobalu.org!</p>
                         <div className="buttons">
-                            <a href="https://mary230542.typeform.com/to/K55ckRqP" target="blank"><button >Get Updates</button></a>
+                            <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Get Updates</button></a>
                             <a target="blank" href="https://podcasts.apple.com/us/podcast/the-untold-story-project/id1536527419"><img className="podcastIcon" src="apple.png" /></a>
                             <a target="blank" href="https://open.spotify.com/show/5vUl6twP1NZZ1jxg74Qqwb?si=4jE2H3q6RSCXnJwFooh1pQ"><img className="podcastIcon" src="spotify.png" /></a>
                         </div>
