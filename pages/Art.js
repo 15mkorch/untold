@@ -33,7 +33,7 @@ export default function Art() {
                         <p>Contest details:</p>
                         <p>Submit an original photo inspired by the poetry above. Please include an explanation/description with 500 words or less.</p>
                         <p>Prize: $50 cash</p>
-                        <p>Deadline: December 30th, 2020</p>
+                        <p>Deadline: January 30th, 2021</p>
                         <a href="https://mary230542.typeform.com/to/GRYxsnfW" target="blank"><button>Submit Here</button></a>
                     </div>
 
