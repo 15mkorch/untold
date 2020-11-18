@@ -14,7 +14,7 @@ export default function Community() {
                 <div className="top-container">
                     <h1 className="communityTitle">The Untold Story Project</h1>
                     <div className="apply-to-podcast">
-                        <p>Welcome to a community that values stories that often go untold-- tories of abuse, trauma, broken relationships, and narcissism that exist behind the curtains of our homes. Each guest has the option to remain anonymous in oder to creae a space of full freedom. In this community I hope you feel seen, loved, educated, and to some extend understood.</p>
+                        <p>Welcome to a community that values stories that often go untold-- tories of abuse, trauma, broken relationships, and narcissism that exist behind the curtains of our homes. Each guest has the option to remain anonymous in order to create a space of full freedom. In this community I hope you feel seen, loved, educated, and to some extend understood.</p>
                         <p className="italics">Have an untold story you'd like to share? E-mail mary@theglobalu.org!</p>
                         <div className="buttons">
                             <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Get Updates</button></a>
