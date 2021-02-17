@@ -20,7 +20,7 @@ export default function Art() {
                     <p>What rules do you play by when reality is manipulated? Daughter of a narcissistically abusive household, Leah Blitz has always agreed to the life her family had already decided for her: her appearance, her activities, her future, her dreams… and most of all, music, the way she sees the world is prohibited.
                     </p>
                     <p>
-                        As Leah’s senior year approaches, She’s developed a risky plan to achieve her dreams, but her guardian angels reveal that the greatest risk in it all is herself.
+                        As Leah’s senior year approaches, she’s developed a risky plan to achieve her dreams, but her guardian angels reveal that the greatest risk in it all is herself.
                 </p>
                 </div>
                 <a className="order" href="https://mary230542.typeform.com/to/yyDwjC1y" target="blank"><button >Pre-order now</button></a>
