@@ -11,36 +11,27 @@ export default function Art() {
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RX3EQ6M4XE"></script>
 
             </Head>
-            <div className="artcontainer">
+            <div className="artcontainer1">
                 <Navbar />
-                <img className="cameraphoto" src="camera.png" />
 
-                <div className="right">
-                    <div className="UntoldArtist">
-                        <h1>The Untold Artist</h1>
-                        <h3>I happen to believe that some of the best art never leaves the notebook.</h3>
-                    </div>
+                <div className="right1">
 
-                    <div>
+                    <h1>The Untold Artist</h1>
 
+
+                    <div className="poem1">
+                        <h3 className="line">Here our art leaves the notebook.</h3>
+                        <h3 className="line">Let the beauty fall like rain.</h3>
+                        <h3 className="line">Let us catch each droplet.</h3>
                     </div>
-                    <div className="poem">
-                        <p>"Let my pain be my worship</p>
-                        <p>let my purpose still prevail</p>
-                        <p>that somewhere in the mystery I'll find it all again"</p>
-                    </div>
-                    <div className="contest-details">
-                        <p>Contest details:</p>
-                        <p>Submit an original photo inspired by the poetry above. Please include an explanation/description with 500 words or less.</p>
-                        <p>Prize: $50 cash</p>
-                        <p>Deadline: January 30th, 2021</p>
-                        <a href="https://mary230542.typeform.com/to/GRYxsnfW" target="blank"><button>Submit Here</button></a>
+                    <div className="contest-details1 ">
+                        <p className="comingSoon1">Podcast coming soon.</p>
                     </div>
 
                 </div>
+                <img className="cameraphoto1" src="cassie2.png" />
             </div>
         </div>
 
     )
 }
-

@@ -12,14 +12,14 @@ export default function Navbar() {
                     <a title="Home"><img className="logo" src="samplelogo.png" /></a>
                 </Link>
 
-                <Link href="/Community">
-                    <a title="Community"><h1>Community</h1></a>
+                <Link href="/Stories">
+                    <a title="Stories"><h1>Stories</h1></a>
                 </Link>
                 <Link href="/Art">
                     <a title="Art"><h1>Art</h1></a>
                 </Link>
-                <Link href="/Story">
-                    <a title="Story"><h1>Story</h1></a>
+                <Link href="/SheSawInColor">
+                    <a title="SheSawInColor"><h1>Book</h1></a>
                 </Link>
             </div>
             <div className="mobileNav">
@@ -30,11 +30,11 @@ export default function Navbar() {
                             <div className="list">
                                 <Link href="/">
                                     <a title="index"><h1 onClick={() => { setOpen(false) }}>Home</h1></a>
-                                </Link><Link href="/Story">
-                                    <a title="Story"><h1 onClick={() => { setOpen(false) }}>Story</h1></a>
+                                </Link><Link href="/SheSawInColor">
+                                    <a title="SheSawInColor"><h1 onClick={() => { setOpen(false) }}>Book</h1></a>
                                 </Link>
-                                <Link href="/Community">
-                                    <a title="Community"><h1 onClick={() => { setOpen(false) }}>Community</h1></a>
+                                <Link href="/Stories">
+                                    <a title="Stories"><h1 onClick={() => { setOpen(false) }}>Stories</h1></a>
                                 </Link>
                                 <Link href="/Art">
                                     <a title="Art"><h1 onClick={() => { setOpen(false) }}>Art</h1></a>

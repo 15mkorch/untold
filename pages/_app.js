@@ -16,12 +16,12 @@ class MyApp extends App {
     return (
       <>
         <Head>
-          <title>Bizz Websites - Website Development & Digital Marketing</title>
+          <title>the Untold Story Project</title>
           <link rel="icon" href="/favicon.ico" />
-          <meta property="og:title" content="Bizz Websites - Website Development & Digital Marketing" />
-          <meta property="og:description" content="Bizz Websites can bring your creative website or application ideas to life." />
-          <meta property="og:url" content="https://www.bizz-websites.com/" />
-          <meta property="og:image" content="https://www.bizz-websites.com/og-image.jpg" />
+          <meta property="og:title" content="The Untold Story Project - Raising Awareness of Abuse and Recovery" />
+          <meta property="og:description" content="The Untold Story Project - Raising Awareness of Abuse and Recovery" />
+          <meta property="og:url" content="https://www.untoldstoryproject.org/" />
+          <meta property="og:image" content="https://www.untoldstoryproject.org/" />
 
         </Head>
         <Component {...pageProps} />
