@@ -13,13 +13,13 @@ export default function Navbar() {
                 </Link>
 
                 <Link href="/Stories">
-                    <a title="Stories"><h1>Stories</h1></a>
+                    <a title="Stories">Stories</a>
                 </Link>
                 <Link href="/Art">
-                    <a title="Art"><h1>Art</h1></a>
+                    <a title="Art">Art</a>
                 </Link>
                 <Link href="/SheSawInColor">
-                    <a title="SheSawInColor"><h1>Book</h1></a>
+                    <a title="SheSawInColor">Book</a>
                 </Link>
             </div>
             <div className="mobileNav">
