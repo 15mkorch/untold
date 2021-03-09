@@ -7,17 +7,17 @@
   .right1{
      display: flex;
      margin-left: 2%;
-     margin-top: 3%;
+     margin-top: 35px;
      flex-direction: column;
      .untoldArtist{
        margin-left: 2%;
-       margin-top: 2%;
+       margin-top: 5%;
        position: absolute;
      }
 
       .poem1{
         border-left: 3px solid white;
-        margin-top: 4em;
+        margin-top: 7em;
         padding: 1.5em;
         position: absolute;
         color: white;
@@ -60,24 +60,26 @@
    .background{
      height: 100vh;
      .artcontainer1{
-      display: flex;
       flex-direction: column;
-      margin-bottom: 1em;
+      margin-bottom: .5em;
       margin-top: 0px;
+      width: 100%;
       
       .right1{
-          width: 100%;
-          margin-left: 2%;
+          width: 90%;
+          margin-left: 3%;
+          margin-top: px;
+        
           .untoldArtist{
             margin-left: 2%;
-            margin-top: 2%;
+            margin-top: 10px;
             position: absolute;
             font-size: 30px;
           }
          .poem1{
-           margin-top: 4em;
+           margin-top: 7em;
            padding-left: .5em;
-           width: 100%;
+           width: 90%;
            margin-left: 12px;
            padding-top: .5em;
            padding-bottom: .5em;
@@ -89,14 +91,16 @@
           
          } 
          .comingSoon1{
-          margin-top: 175px;
+          margin-top: 100px;
+          width: 90%;
         }
           
          
       }
       .cameraphoto1{
-        width: 700px;
+        width: 100%;
         margin-top: 25%;
+        background-size: cover; 
       }
   }
    }

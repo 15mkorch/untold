@@ -70,6 +70,16 @@
                     font-family: 'Roboto Mono', monospace;
                     text-decoration: none;
                 }
+                a{
+                    text-decoration: none !important;
+                    display: inline;
+                    padding: 6vh;
+                    color: white;
+                    
+                }
+                a:hover{
+                    color: #23364D;
+                }
             p{
                 margin-top: 7%;
                 text-align: center;
