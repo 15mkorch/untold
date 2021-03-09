@@ -1,7 +1,8 @@
 .background{
   background-color: black;
   
-}
+} 
+
 .artcontainer1{
   margin-top: -35px;
   width: 100%;
@@ -10,12 +11,23 @@
      margin-left: 2%;
      margin-top: 1.5rem;
      flex-direction: column;
+     .untoldArtistTitle{
+      margin-top: 50px;
+    }
      .untoldArtist{
        margin-left: 2%;
        margin-top: 5%;
        position: absolute;
      }
-
+     h4{
+      position: absolute;
+      margin-top: 35%;
+      margin-left: 2%;
+      font-size: 25px;
+      position: absolute;
+      font-style: italic;
+      color: white;
+    }
       .poem1{
         border-left: 3px solid white;
         margin-top: 7em;
@@ -23,9 +35,7 @@
         position: absolute;
         color: white;
 
-        p{
-            font-family: 'Lato', sans-serif;
-        }
+        
     }
       .contest-details1{
           margin-top: 20px;
@@ -35,11 +45,7 @@
               font-family: 'Lato', sans-serif;
               
           }
-          .comingSoon1{
-            margin-top: 350px;
-            position: absolute;
-            font-style: italic;
-          }
+          
           .cameraphoto1{
             height: 100vh;
             margin-left: 0px;
@@ -70,12 +76,18 @@
           width: 90%;
           margin-left: 3%;
           margin-top: px;
-        
-          .untoldArtist{
-            margin-left: 2%;
-            margin-top: 10px;
+          h4{
             position: absolute;
-            font-size: 30px;
+            margin-top: 63%;
+            margin-left: 2%;
+            font-size: 15px;
+            position: absolute;
+            font-style: italic;
+            color: white;
+          }
+          .untoldArtistTitle{
+            margin-top: 0px;
+            position: absolute;
           }
          .poem1{
            margin-top: 7em;
@@ -84,6 +96,7 @@
            margin-left: 12px;
            padding-top: .5em;
            padding-bottom: .5em;
+          
 
            h3{
              font-size: 20px;
@@ -91,18 +104,16 @@
            
           
          } 
-         .comingSoon1{
-          margin-top: 125px;
-          width: 90%;
-        }
+       
           
          
       }
+    
       .cameraphoto1{
         width: 90%;
-        margin-top: 35%;
-        background-size: cover; 
-        margin-left: 30px;
+        margin-top: 65%; 
+        margin-left: 10px;
+        position: relative;
       }
   }
    }

@@ -16,7 +16,7 @@ export default function Art() {
 
                 <div className="right1">
 
-                    <h1>The Untold Artist</h1>
+                    <h1 className="untoldArtistTitle">The Untold Artist</h1>
 
 
                     <div className="poem1">
@@ -24,12 +24,15 @@ export default function Art() {
                         <h3 className="line">Let the beauty fall like rain.</h3>
                         <h3 className="line">Let us catch each droplet.</h3>
                     </div>
-                    <div className="contest-details1 ">
-                        <p className="comingSoon1">Podcast coming soon.</p>
-                    </div>
+
+                    <h4 className="comingSoon1">Podcast coming soon.</h4>
+
 
                 </div>
-                <img className="cameraphoto1" src="cassie2.png" />
+                <div className="umberellaBox">
+                    <img className="cameraphoto1" src="cassie2.png" />
+                </div>
+
             </div>
         </div>
 
