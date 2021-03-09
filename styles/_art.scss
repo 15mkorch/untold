@@ -4,6 +4,7 @@
 }
 .artcontainer1{
   margin-top: -35px;
+  width: 100%;
   .right1{
      display: flex;
      margin-left: 2%;
@@ -91,16 +92,17 @@
           
          } 
          .comingSoon1{
-          margin-top: 100px;
+          margin-top: 125px;
           width: 90%;
         }
           
          
       }
       .cameraphoto1{
-        width: 100%;
-        margin-top: 25%;
+        width: 90%;
+        margin-top: 35%;
         background-size: cover; 
+        margin-left: 30px;
       }
   }
    }
