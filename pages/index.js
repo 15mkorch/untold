@@ -4,7 +4,7 @@ import Navbar from '../components/navbar';
 
 export default function Home() {
   return (
-    <div id="index-background" className="background">
+    <div id="index-background" className="background1">
       <Head>
         <title>
           The Untold Story Project-- A podcast that finds strength in sharing the untold
@@ -19,15 +19,17 @@ export default function Home() {
 
       </Head>
       <Navbar />
+
       <div className="title">
         <div>
-          <h1> Untold </h1>
-          <h2>Believing in the power of the untold story</h2>
+          <h1 className="untoldTitle"> Untold </h1>
+          <div className='line'><h2>Believing in the power of the untold story</h2></div>
           <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join our Community</button></a>
         </div>
       </div>
       <img className="picture" src="/home_image.png" />
     </div>
+
 
   )
 }

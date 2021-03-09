@@ -1,6 +1,11 @@
 .newcommunity-container{
     display: flex;
     width: 80%;
+    background-color: black;
+    
+}
+.storyContainer{
+  background-color: black;
 }
     .top{
       flex-direction: column;
@@ -20,6 +25,7 @@
           font-size: 25px;
           font-family: 'Roboto Mono', monospace;
           font-style: italic;
+          color: white;
           
         }
         .buttons{
@@ -82,8 +88,6 @@
     background: gold;
   }
   
-  
-
     .flex-item {
     padding: 10px;
     width: 400px;
@@ -97,16 +101,28 @@
     font-size: 2em;
     text-align: center;
     position: relative;
-    h3{
+    a{
       font-size: 40px;
       margin-top: 15%;
       position: absolute;
+      width: 400px;
+      right: 0px;
+      color: white;
+      font-family: 'Lato', sans-serif;
+      text-decoration: none !important;
     }
-
+    a:hover{
+      color: #23364D;
+      
+    }
+    
   }
   .e1{
     background-image: url('/E1.png');
     background-size: cover; 
+    
+    
+    
   }
   .e2{
     background-image: url('/E2.png');
@@ -255,7 +271,20 @@
     font-size: 2em;
     text-align: center;
    
-    
+    a{
+      font-size: 25px;
+      margin-top: 15%;
+      position: absolute;
+      width: 250px;
+      right: 0px;
+      color: white;
+      font-family: 'Lato', sans-serif;
+      text-decoration: none !important;
+    }
+    a:hover{
+      color: #23364D;
+      
+    }
     
     h3{
       font-size: 25px;

@@ -11,7 +11,7 @@ html, body {
   height: 100vh;
   
 }
-.background {
+.background1 {
   background-color: #030302;
   width: 100vw;
   color: #ffffff;
@@ -24,7 +24,7 @@ html, body {
       flex-direction: column;
       width: 40%;
       z-index: 2;
-      h1{
+      .untoldTitle{
         font-family: 'Roboto Mono', monospace;
         font-size: 70px;
         margin-top: 33%;
@@ -64,10 +64,8 @@ html, body {
 }
 
 @media (max-width: 800px) {  
-  .background{
-
-    width: 100vw;
-    
+  .background1{
+    width: 100%;
     display: flex;
     flex-direction: column;
     .title{
@@ -75,20 +73,24 @@ html, body {
       flex-direction: column;
       height: 20%;
       width: 90vw;
-      h1{
+      .untoldTitle{
         margin-top: 0px;
         margin-left: 17%;
-        width: 100vw;
+        
         
     }
-    h2{
-      font-family: 'Roboto Mono', monospace;
-      width: 80vw;
-      margin-left: auto;
-      margin-right: auto;
-      font-size: 25px;
-      margin-top: 1em;
-   
+    .line{
+      display: flex;
+      h2{
+        font-family: 'Roboto Mono', monospace;
+        width: 80vw;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 25px;
+        margin-top: 1em;
+        
+     
+      }
     }
     button{
       margin-left: 10%;
@@ -98,9 +100,11 @@ html, body {
    }
     .picture{
       margin-left: 5%;
-      width: 90vw;
+      width: 90%;
       object-fit: cover;
       z-index: 1 ;
+      display: flex;
+      margin-top: 2em;
       
     }
   }
@@ -108,6 +112,7 @@ html, body {
   
 }
 
+@import '_mixins';
 @import 'art';
 @import 'navbar';
 @import 'story';

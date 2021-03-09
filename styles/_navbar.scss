@@ -1,43 +1,28 @@
 .desktopNav {
-        
-        transform: rotate(-270deg);
-
-        /* Legacy vendor prefixes that you probably don't need... */
-      
-        /* Safari */
-        -webkit-transform: rotate(-270deg);
-      
-        /* Firefox */
-        -moz-transform: rotate(-270deg);
-      
-        /* IE */
-        -ms-transform: rotate(-270deg);
-      
-        /* Opera */
-        -o-transform: rotate(-270deg);
-      
+        @include prefix(transform, rotate(-270deg));
         /* Internet Explorer */
         filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
         display: inline-block;
         position: fixed;
         z-index: 6;
-        height: 100vh;
-        right: 8%;
-        top: auto;
-        bottom: auto;
+        right: 1.2em;
+        bottom: 5vh;
+        transform-origin: right;
+        font-size: 2.5em;
         .logo{
             height: 60px;
         }
         a{
             text-decoration: none !important;
+            display: inline;
+            padding: 6vh;
+            color: white;
+            
         }
-        
-            h1{
-                display: inline;
-                padding: 1em;
-                color: white;
-               
-            }
+        a:hover{
+            color: #23364D;
+        }
+    
            
             
     
@@ -59,9 +44,11 @@
                 background-color: transparent;
                 border: none;
                 margin-top: 1%;
-                margin-left: 72%;
+                margin-left: 76%;
+                padding: 10px;
                 .open{
                     height: 60px;
+                    
                 }
                 
             }
