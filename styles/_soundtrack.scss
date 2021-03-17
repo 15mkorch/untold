@@ -1,11 +1,13 @@
 h1{
     font-size: 70px;
     font-family: 'Roboto Mono', monospace;
+    color: white;
 }
 .artcontainer{ 
 display: flex;
 flex-direction: row;
 height: 100vh;
+background-color: black;
 .cameraphoto{
     margin-left: 0px;
     display: flex;
@@ -75,9 +77,6 @@ height: 100vh;
      height: auto;
      .right{
          width: 100%;
-         h1{
-            font-size: 30px;
-        }
      }
     .cameraphoto{
         height: 30vh;
@@ -87,7 +86,6 @@ height: 100vh;
     }
     
  }
-
  button {
     margin-top: 5%;
     background-color: #23364D;
@@ -100,7 +98,7 @@ height: 100vh;
     display: inline-block;
     font-size: 16px;
     font-family: 'Roboto Mono', monospace;
-    margin-bottom: 15%;
+    bottom: 15%;
   }
 }
 
