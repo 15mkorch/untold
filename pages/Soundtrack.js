@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Navbar from '../components/navbar';
 
-export default function Art() {
+export default function Soundtrack() {
     return (
         <div className="background">
             <Head>
