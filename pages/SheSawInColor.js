@@ -17,7 +17,7 @@ export default function Art() {
 
                 <div className="right">
                     <div>
-                        <h1>She Saw in Color</h1>
+                        <h1 className="cover">She Saw in Color</h1>
                     </div>
                     <div className="synopsis">
                         <p>What rules do you play by when reality is manipulated? Daughter of a narcissistically abusive household, Leah Blitz has always agreed to the life her family had already decided for her: her appearance, her activities, her future, her dreams… and most of all, music, the way she sees the world is prohibited.
