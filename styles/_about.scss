@@ -1,0 +1,110 @@
+
+.aboutContainer{
+  background-color: black;
+  margin-left: 10%;
+  margin-top: 10%;
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  padding-bottom: 5%;
+
+  .top{
+    width: 55%;
+  }
+
+  ul{
+    list-style: none; 
+    padding-bottom: 3%; 
+  }
+
+  .aboutPhotos{
+    width: 35%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+
+
+  .aboutphoto1{
+    height: 230px;
+    transform: rotate(-15deg);
+    filter: brightness(50%);
+
+  }
+
+    .aboutphoto1:hover{
+    transform: rotate(-12deg);
+        
+    }
+  .aboutphoto2{
+    height: 200px;
+    transform: rotate(10deg);
+  }
+
+  .aboutphoto2:hover{
+    transform: rotate(8deg);
+    }
+    
+  .aboutphoto3{
+    height: 200px;
+    transform: rotate(5deg);
+    filter: brightness(60%);
+  }
+  .aboutphoto3:hover{
+    transform: rotate(9deg);
+    }
+  .aboutphoto4{
+    margin-top: -10px;
+    height: 270px;
+    transform: rotate(-12deg);
+    filter: brightness(60%);
+  }
+  .aboutphoto4:hover{
+    transform: rotate(-14deg);
+    }
+  
+}}
+    
+
+  @media (max-width: 800px) {
+    .aboutContainer{
+        margin-left: 14%;
+        position: relative;
+        background-color:black;
+        width: 95%;
+        height: 1200px;
+        .top{
+            width: 83%;
+            position: absolute;
+            z-index: 23;
+            margin-top: 7%;
+            margin-left: 7%;
+
+
+        }
+        .aboutPhotos{
+            position: absolute;
+            width: 80%;
+            margin-top: 15%;
+
+            .aboutphoto1{
+                height: 210px;
+                filter: brightness(50%);
+              }
+              .aboutphoto2{
+                height: 180px;
+                filter: brightness(80%);
+              }
+              .aboutphoto3{
+                height: 180px;
+                filter: brightness(40%);
+              }
+              .aboutphoto4{
+                margin-top: -10px;
+                height: 250px;
+                filter: brightness(40%);
+              }
+        }
+    }
+
+
+  }

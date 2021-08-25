@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Episode2() {
     return (
@@ -14,7 +15,8 @@ export default function Episode2() {
 
 
             <div className="background-blog">
-                <Navbar />
+                <NewNav />
+                <SideNav />
                 <div className="top-transcript">
                     <div className='image2'>
                     </div>
@@ -37,36 +39,36 @@ export default function Episode2() {
                     <h1>Transcript</h1>
                     <p className="speakerName">Mary: </p>
                     <p>We all have stories that are behind closed curtains, you know, the ones that are  untold.
-</p>
+                    </p>
 
                     <p>We dive into these stories that may have authors who wish to remain anonymous  yet, who are ready to expose the light, some untouched memories of those who  deserve better in order to spur, change, hope, courage, and education to those in  similar circumstances.
-                    I'm your host and I want to welcome you to the next episode of the untold story  project.
-</p>
+                        I'm your host and I want to welcome you to the next episode of the untold story  project.
+                    </p>
 
                     <p>Welcome to episode two of the untold story project. A lot of the stories we share or  deep and pretty vulnerable and so in order to protect the identities of the stories and  to create a safe place for people to be able to share, all of our Blues have the option  to remain anonymous and identify themselves by another name, which is a favorite  quality about who they are as a person. And so I would like to invite today's Blues  to introduce yourself with your name.
-</p>
+                    </p>
 
                     <p className="speakerName">Blue: </p>
                     <p>Hello, my name today is blue.
-</p>
+                    </p>
                     <p className="speakerName">Mary: </p>
                     <p>And what does blue mean to you?
-</p>
+                    </p>
                     <p className="speakerName">Blue: </p>
                     <p>Well, blue first stemmed from a poem I read and it seems like a very like  lighthearted, chill like Pinterest poem at first, I think at first glance, but it really  spoke to me and I found myself when I first started, writing poetically and just  writing and journaling and working through healing processes, I found myself using  this blue tool as a form to explain or to express my spirit and my true identity.
-</p>
+                    </p>
 
                     <p>
                         So, I would have that to go back to, at times I would write it on my arm. So if there  was times where I was confused or I didn't know it was happening or I just felt in  the wrong brain or a lot of demonic oppression, I would like to look at it and it would  remember that even though I'm feeling like this, and even though this is happening,  that in the end, that's not who I am. That's not who God says I am and that's not who  he created me to be.
-</p>
+                    </p>
 
                     <p className="speakerName">Mary: </p>
                     <p>That's so beautiful. What feelings are associated with blue for you?
-</p>
+                    </p>
 
                     <p className="speakerName">Blue: </p>
                     <p>I would say feelings of joy and strength and called out and to who I actually am.
-</p>
+                    </p>
 
 
                     <p className="speakerName">Mary: </p>
@@ -113,14 +115,14 @@ export default function Episode2() {
                         <p>So specifically with a narcissistic person or person with narcissistic personality  disorder, oftentimes when you are deeply hurt by them and you go to them and you  say, and it's very clear and you say, you hurt me by doing dot, dot dot, their brain  goes, oh, this is an attack towards who I am as a person and how amazing I am, like  the audacity of that person.  </p>
                         <p>And so then they go and they turn that around to you, to make you feel invalid, to  make sure you're not heard, to make you feel unworthy by saying something like  that.  </p>
                         <p className="speakerName">Mary: </p>
-It sounds like basically pure manipulation.  </p>
+                        It sounds like basically pure manipulation.  </p>
                     <p className="speakerName">Blue: </p>
                     <p>No, it's manipulation, absolutely. It's a manipulation of your reality, that's why it  says it can be pushed so far that they question their own, one can question their own  sanity. I'm going to be honest, that's what happened to me.  </p>
 
                     <p>Lack of empathy, the second one was, only showed like loving action or only did  things that seemed, that made me feel loved or did things that seemed nice when it was convenient. Because when I really looked back on it, it made me go wait, I  started like looking back on things like that and seeing, wait actually, that person  only went shopping with me because I had the credit card or they wanted my money  or they complimented me for this reason so that later I would do something for them,  or they only act like we were best friends around her friends to make her look better. But then really when it was just us, it wasn't like that at all.  </p>
                     <p>
                         And then the third one was like this abnormal, oh my gosh, like this person has such  a need for control that as soon as like it slips everything explodes. And then all of  the people around them are trying to pick up the pieces and it just kept happening  over and this kept like turning my brain over and over and over. And then literally  in the middle of the night, like I woke up and I wrote down, research narcissism.
-</p>
+                    </p>
                     <p>
                         It was almost like, it was really strange, it was literally in the middle of the night. </p>
                     <p className="speakerName">Mary: </p>

@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Episode3() {
     return (
@@ -14,7 +15,8 @@ export default function Episode3() {
 
 
             <div className="background-blog">
-                <Navbar />
+                <NewNav />
+                <SideNav />
                 <div className="top-transcript">
                     <div className='image3'>
                     </div>

@@ -3,8 +3,8 @@
     display: flex;
     flex-direction: column;
     .top-transcript{
-        margin-left: 5%;
-        margin-top: 3%;
+        margin-left: 10%;
+        margin-top: 0%;
         display: flex;
         flex-direction: row;
         .highlight-block{
@@ -112,20 +112,16 @@ p{
         }
 
     }
-    .TaylorText{
-        margin-top: 70px;
-        width: 70vw;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 3%;
+    .TaylorText {
+        margin-left: 50px;
+        p{
+            font-size: 1em;
+            font-family: 'Lato', sans-serif;
+            font-weight: 200;
+            color:white;
+            }
     }
     
-    p{
-    font-size: 1em;
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: white;
-    }
 }
  
 }

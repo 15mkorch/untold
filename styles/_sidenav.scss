@@ -1,0 +1,62 @@
+.sideNavContainer{
+width: 20vw;
+height: 100vh;
+position: fixed;
+overflow: hidden;
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 14vh;
+    padding-left: 5.1vw;
+    li{
+        .sideHomeLine{
+            width: 1px;
+            height: 75vh;
+            border-left: left;
+            border-left: solid;
+            border-color: white;
+        }
+        a:hover{
+            text-decoration: none;
+        }
+        .navTitle{
+            margin-top: 3vh;
+            margin-left: -2vw;
+        }
+        .navTitle:hover{
+            color: grey;
+        }
+    }
+}
+
+}
+
+@media (max-width: 800px) {
+    .sideNavContainer{
+        width: 20vw;
+        height: 100vh;
+        display: fixed;
+        
+        ul{
+            text-decoration: none;
+            list-style: none;
+            margin-top: 10vh;
+            padding-left: 6vw;
+            li{
+                .sideHomeLine{
+                    width: 1px;
+                    height: 75vh;
+                    border-left: left;
+                    border-left: solid;
+                    border-color: white;
+                }
+                .navTitle{
+                    margin-top: 3vh;
+                    margin-left: -3.2vw;
+                }
+            }
+        }
+        
+        }
+ }

@@ -1,9 +1,10 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
-export default function Art() {
+export default function SheSawInColor() {
     return (
-        <div className="background">
+        <div className="index-sheSawInColor">
             <Head>
                 <title>She Saw in Color</title>
                 <link rel="icon" href="/favicon.ico" />
@@ -11,8 +12,10 @@ export default function Art() {
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RX3EQ6M4XE"></script>
 
             </Head>
-            <div className="artcontainer">
-                <Navbar />
+            <NewNav />
+            <SideNav />
+            <div className="bookContainer">
+
                 <img className="cameraphoto" src="albumcover.png" />
 
                 <div className="right">
@@ -22,10 +25,10 @@ export default function Art() {
                     </div>
                     <div className="synopsis">
                         <p>What rules do you play by when reality is manipulated? Daughter of a narcissistically abusive household, Leah Blitz has always agreed to the life her family had already decided for her: her appearance, her activities, her future, her dreams… and most of all, music, the way she sees the world is prohibited.
-                    </p>
+                        </p>
                         <p>
                             As Leah’s senior year approaches, she’s developed a risky plan to achieve her dreams, but her guardian angels reveal that the greatest risk in it all is herself.
-                </p>
+                        </p>
                     </div>
                     <a className="order" href="https://mary230542.typeform.com/to/yyDwjC1y" target="blank"><button >Pre-order now</button></a>
 

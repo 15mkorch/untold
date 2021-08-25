@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 
 export default function Home() {
@@ -18,16 +19,20 @@ export default function Home() {
         <meta property="og:title" content="The Untold Story Project-- A podcast that finds strength in sharing the untold" />
 
       </Head>
-      <Navbar />
-
-      <div className="title">
-        <div>
-          <h1 className="untoldTitle"> Untold </h1>
-          <div className='line'><h2>Believing in the power of the untold story</h2></div>
-          <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join our Community</button></a>
+      <NewNav />
+      <SideNav />
+      <div className="homeContainer">
+        <h1 className='homeTitle'> Untold Media</h1>
+        <div className='homeSubtitle'>
+          <h2>All the things I couldn't say</h2>
+          <h2>All the things I couldn't be</h2>
         </div>
+        <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join our Community</button></a>
       </div>
-      <img className="picture" src="/home_image.png" />
+      <div className="homePhotoContainer">
+        <img className="picture" src="/homeImage.png" />
+      </div>
+
     </div>
 
 

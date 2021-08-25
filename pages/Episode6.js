@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Episode6() {
     return (
@@ -14,13 +15,14 @@ export default function Episode6() {
 
 
             <div className="background-blog">
-                <Navbar />
+                <NewNav />
+                <SideNav />
                 <div className="top-transcript">
                     <div className='image6'>
                     </div>
                     <div className='highlight-block'>
                         <h1 className='title'>Fight One More Day</h1>
-                        <p className='highlight'> "Do you believe he's a king of good intentions? I have to stand on that even when every bit of my circumstance looksc opposite."</p>
+                        <p className='highlight'> "Do you believe he's a king of good intentions? I have to stand on that even when every bit of my circumstance looks the opposite."</p>
                         <div className="buttons">
                             <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Get Updates</button></a>
 
@@ -41,7 +43,7 @@ export default function Episode6() {
                     <p> I would dare to say that some of the most important stories go untold that many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story project is a collection of stories from people who've said, yes, I want to speak out to bring education, empathy, and hope to those around me. My name is Mary and I hope you were blessed by this episode of The Untold Story project. </p>
 
                     <p> Hi, Angelica, I've been so excited to connect with you. You know, even before meeting, I just want to say thank you for being loyal to pray for me and encourage me and reach out with scripture anytime when I really needed it. And so, I just know that says a lot about your desire to love others in the way that the father would. So, thank you and I'm glad we finally get to meet.
-</p>
+                    </p>
                     <p className="speakerName">Angelica: </p>
                     <p> Absolutely girl, same. I'm so excited for this</p>
 
@@ -108,10 +110,10 @@ export default function Episode6() {
                     <p> Yeah, thank God that He gave you that peace. You know, I think it's so beautiful that you know, when we're worried about something and we reach out to God for that confirmation of peace that he gives it to us whether it's new visions or dreams or prophecy or scripture itself. And it's such a freeing feeling to realize we're not in control. </p>
 
                     <p className="speakerName">Angelica: </p>  17:31
-<p> Amen.</p>
+                    <p> Amen.</p>
 
                     <p className="speakerName">Mary: </p>  17:32
-<p> You know, I think something God's been talking to me about is he's like Mary like you're not equipped to be in control. You shouldn't want to be in control. So just let me take this, you know. And it's beautiful to hear you walk through the journey of like, you know, I might not have the answers but God does and he's good. And he's taking care of everything. </p>
+                    <p> You know, I think something God's been talking to me about is he's like Mary like you're not equipped to be in control. You shouldn't want to be in control. So just let me take this, you know. And it's beautiful to hear you walk through the journey of like, you know, I might not have the answers but God does and he's good. And he's taking care of everything. </p>
 
                     <p className="speakerName">Angelica: </p>
                     <p> Absolutely! I completely agree. We don't have that much power, you know, to be in control. I've learned that and I rest in that so much as you know, when you're thinking about, oh, well, I'm just worried about this or I'm concerned about this or what if you know should I feel guilty about that? Or should I feel shame in this specific thing? We don't have that much power, you know. We are not God and praise him for that you know so I agree completely.</p>
@@ -142,7 +144,7 @@ export default function Episode6() {
                     <p> Fast forward, Father's Day sometimes I hike up Stone Mountain and one year I wrote him a card. And one side was a note to him. And one side was a note to whoever found that card, about just like loving the people that you have in your life while you have them and just kind of an inspirational message. And I left a balloon next to it. On the five-year death anniversary, I went back to the Ole Miss Stadium by myself and release balloons on the 50-yard line solo. So, without any friends but I just did that to honor him the same way that I had on the first year. Next week to honor him, I'm going to eat with his best friend. And then we used to go to the butterfly house at Callaway gardens when I was younger. And so, I'm going to go by myself the week after to just take a trip to Callaway gardens where I grew up with him. And so, grief I think like looks like whatever you want it to be, you know. If you grieve by crying into your pillow and journaling then that's your grief process. If you grieve by going out into the woods and you know hitting sticks against trees because you want to get out the anger that you're feeling, then that's your grief process. If you grieve by going and releasing balloons on the 50-yard line of a stadium that he loved then that's your grief process. And you feel like you're supposed to feel a certain way. I was talking to several of my coworkers about this the other day based on some trauma we've gone through at the safe house. And there's really no way that we're supposed to feel. You just feel how you feel and you have to accept that. </p>
 
                     <p> Elizabeth Elliot wrote a book called be still my soul. And she talks about an acceptance, life, peace. And so we find peace from just accepting ourselves, accepting our circumstances, accepting our feelings and accepting what's happening around us. And in that space, we can find peace and the peace comes in and how we respond to it. So however you grieve, however you want to respond is okay, I think. And you know, I cried my eyes out the first day that I found out that my dad had died. Came home sob the first day and then I didn't cry the rest of the week. I gave his eulogy and didn't shed a tear for all intensive purposes. Got back to college, I always called him when I came back to school. And I got back to school and I couldn't call him and I was wrecked over again. But yet the week before and giving his eulogy, I didn't cry at all. But when I couldn’t call him, it hit me in a different way. So it's like, I think we just need to take the pressure off of what the world wants us to grieve like and if there's a right or wrong and just allow ourselves to feel and trust the Holy Spirit to steward the way our emotions are going to go, you know and see where he leads us. Because crying on someone's shoulder. You know, we all have different ways. And I think just remembering that we can do whatever we need to do to get through things.
-</p>
+                    </p>
                     <p className="speakerName">Mary: </p>
                     <p> Hearing you talk about like the balloon releases and the things that you've done to honor your father are making me cry. It's so beautiful. I love and I'm sure he's looking down thinking how beautiful that is too. So were you ever mad at God throughout this process? Throughout this process, have you ever been mad at God?</p>
 

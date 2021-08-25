@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Art() {
     return (
@@ -12,7 +13,8 @@ export default function Art() {
 
             </Head>
             <div className="artcontainer1">
-                <Navbar />
+                <NewNav />
+                <SideNav />
 
                 <div className="right1">
 

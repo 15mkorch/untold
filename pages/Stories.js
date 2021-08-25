@@ -1,10 +1,11 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Stories() {
     return (
-        <div className="background">
+        <div className="background1">
             <Head>
                 <title>The Untold Story Project- Stories</title>
                 <link rel="icon" href="/favicon.ico" />
@@ -12,10 +13,11 @@ export default function Stories() {
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RX3EQ6M4XE"></script>
 
             </Head>
-            <Navbar />
+            <NewNav />
+            <SideNav />
             <div className="storyContainer">
                 <div className="top">
-                    <img className="testphoto" src="USP.jpg" />
+                    <img className="testphoto" src="USP.png" />
                     <div className="USP-top">
                         <h1 className="featuredBlog">The Untold Story Project </h1>
                         <h2 className="description">I happen to believe some of the most powerful stories go untold. We're determined to share them.</h2>

@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+import NewNav from '../components/NewNav';
+import SideNav from '../components/SideNav';
 
 export default function Episode4() {
     return (
@@ -14,7 +15,8 @@ export default function Episode4() {
 
 
             <div className="background-blog">
-                <Navbar />
+                <NewNav />
+                <SideNav />
                 <div className="top-transcript">
                     <div className='image4'>
                     </div>
@@ -37,7 +39,7 @@ export default function Episode4() {
                     <h1>Transcript</h1>
                     <p className="speakerName">Mary:</p>
                     <p>I would dare to say that some of the most important stories go untold. That many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story Project is a collection of stories from people who've said, “yes, I want to speak out to bring education, empathy, and hope to those around me.” My name is Mary. And I hope you were blessed by this episode of The Untold Story project.
-</p>
+                    </p>
 
                     <p>
                         Well, Alina, thanks for joining us today. </p>
@@ -101,7 +103,7 @@ export default function Episode4() {
 
                     <p>Even though time and time again, psychology and science has proven that there is help on the other side of pressing into that, right? But we tend to ignore that because it's just feels too hard in the moment and I do. I saw that in my family for sure. What we experienced in the years of my dad being gone, like newspapers reported about it in the small town that I grew up in. And our church rejected us, our friends many of them rejected us. There was just a ton of backlash in that and it was a traumatic experience for my family. It was very hard on my mom to then transition into being a single mother, the single breadwinner of the family and then also just like figuring out a situation that no one ever imagines himself in.</p>
 //Good
-<p className="speakerName">Mary:</p>
+                    <p className="speakerName">Mary:</p>
                     <p>Yeah, no one ever says, “oh” or no one ever plans for that. </p>
 
                     <p className="speakerName">Allina: </p>
