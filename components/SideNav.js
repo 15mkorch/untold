@@ -6,7 +6,7 @@ export default function SideNav() {
             <ul>
                 <li><div className="sideHomeLine">
                 </div></li>
-                <li><Link href="/">
+                <li><Link href="/About">
                     <a title="About"><p className="navTitle">About</p></a>
                 </Link></li>
 
