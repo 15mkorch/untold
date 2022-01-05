@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Navbar from '../components/navbar';
+
 
 export default function Art() {
     return (
@@ -21,7 +21,7 @@ export default function Art() {
                     </p>
                     <p>
                         As Leah’s senior year approaches, she’s developed a risky plan to achieve her dreams, but her guardian angels reveal that the greatest risk in it all is herself.
-                </p>
+                    </p>
                 </div>
                 <a className="order" href="https://mary230542.typeform.com/to/yyDwjC1y" target="blank"><button >Pre-order now</button></a>
             </div>
