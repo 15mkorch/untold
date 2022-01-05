@@ -1,25 +1,27 @@
 .navContainer{
-    width: 105vw;
+    width: 100%;
     height: 65px;
     position: fixed;
     overflow: hidden;
     display: inline;
         ul{
             list-style: none;
-            margin-left: -3vw;
           li{
             display: inline-block;
             padding-left: 25px;
             padding-top: 10px;
             .navIcon{
-                width: 35px;
-                height: auto;
+                height: 40px;
+                width: auto;
+            }
+            .discord{
+                height: 32px;
             }
             .homeLine {
-                width: calc(95vw - 250px);
+                width: calc(95vw - 300px);
                 height: 1px;
                 border-top: solid;
-                border-color:white;
+                border-color:#EDF1F2;
                 
             }
           }
@@ -33,19 +35,27 @@
 
 @media (max-width: 800px) { 
     .navContainer{
+        width: 100%;
         ul{
-            padding-left: 1vw;
+            padding-left: 0px;
+
             li{
+                padding-top: 5px;
+                .discord{
+                    height: 20px;
+                    padding-left: 0px;
+                    
+                }
                 .navIcon{
                     width: 15px;
                     height: auto;
 
                 }
                 .homeLine {
-                    width: calc(95vw - 180px);
+                    width: calc(95vw - 185px);
                     height: 1px;
                     border-top: solid;
-                    border-color:white;
+                    border-color:#EDF1F2;
                     
                 }
             }

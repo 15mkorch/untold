@@ -1,0 +1,69 @@
+.roadmapContainer{
+    background-color: #141314;
+    margin-left: 10%;
+    margin-top: 7%;
+    width: 90%;
+    height: 100vh;
+    padding-bottom: 5%;
+  
+    .roadmapFlex{
+      display: block;
+      position: absolute;
+      flex-direction: column;
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      
+      .roadmapheadline{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 3.7em;
+      }
+      .roadmapdescription{
+        font-family: 'Nanum Brush Script';  
+      }
+      .roadmapline{
+          font-size: 15px;
+      }
+      h4{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.5em;
+      }
+
+  
+      .umbrellaDiv{
+          position: relative;
+          display: block;
+          .musicPhoto{
+            height: 400px;
+            transform: rotate(20deg);
+            
+        }
+      }
+    }
+    }
+  
+    
+  
+  
+  @media (max-width: 800px) {
+      .musicContainer{
+          .musicFlex{
+              padding-top: 20%;
+              width: 75%;
+              .typewriter{
+                  font-size: 30px;
+              }
+              
+                  .musicPhoto{
+                      height: 200px;
+                      margin-top: 20%;
+                      margin-left: 5%;
+                  }
+              
+              
+          
+          }
+      }
+      
+  }
+  

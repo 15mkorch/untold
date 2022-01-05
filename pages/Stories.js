@@ -5,7 +5,7 @@ import SideNav from '../components/SideNav';
 
 export default function Stories() {
     return (
-        <div className="background1">
+        <div className="background3">
             <Head>
                 <title>The Untold Story Project- Stories</title>
                 <link rel="icon" href="/favicon.ico" />
@@ -14,20 +14,19 @@ export default function Stories() {
 
             </Head>
             <NewNav />
-            <SideNav />
+
             <div className="storyContainer">
-                <div className="top">
-                    <img className="testphoto" src="USP.png" />
-                    <div className="USP-top">
-                        <h1 className="featuredBlog">The Untold Story Project </h1>
-                        <h2 className="description">I happen to believe some of the most powerful stories go untold. We're determined to share them.</h2>
-                        <div className="buttons">
-                            <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Get Updates</button></a>
 
-                        </div>
+                <div className="USP-top">
+                    <h1 className="featuredBlog">The Untold Story Project </h1>
+                    <h2 className="description">I happen to believe some of the most powerful stories go untold. We're determined to share them.</h2>
+                    <div className="buttons">
+                        <a href="https://open.spotify.com/show/5vUl6twP1NZZ1jxg74Qqwb?si=8e788835b00d46e5" target="blank"><button >Listen Here</button></a>
+
                     </div>
-
                 </div>
+
+
 
                 <div className="flex-container wrap">
 
@@ -48,8 +47,10 @@ export default function Stories() {
                         <Link href="/Episode5"><a>E5: The Power of Vulnerability in an Epidemic of Fatherlessness</a></Link>
                     </div>
                     <div className="flex-item e6">
-                        <Link href="/Episode6"><a>E6: Fight One More Day</a></Link>
+                        <Link href="/Episode6"><a>E6: Fight One More Day
+                        </a></Link>
                     </div>
+
                 </div>
             </div>
 

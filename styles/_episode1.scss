@@ -1,22 +1,40 @@
-.background-blog {
-    width: 100vw;
+.background-blog { 
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: #141314;
+    .TaylorText{
+        width: 80vw;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 3%;
+        .iconblock{
+            margin-top: 3%;
+            display: flex;
+            flex-direction: row;
+            .podcastlink1{
+                margin-left: 15px;
+                height: 50px;
+                margin-right: 15px;
+            }
+            .podcastlink2{
+                height: 50px;
+            }
+        }
+        
+        
+    }
     .top-transcript{
-        margin-left: 10%;
+        margin-left: 5%;
         margin-top: 0%;
         display: flex;
         flex-direction: row;
         .highlight-block{
+            margin-top: 3%;
             display: flex;  
             flex-direction: column;
             width: 40%;
             margin-left: 3%;
-            p{
-                font-family: 'Lato', sans-serif;
-
-            }
+           
             .title{ 
                 margin-top: 100px;
                 width: 100%;
@@ -24,7 +42,7 @@
                 font-size: 45px;
             }
             .highlight{
-                margin-top: 30px;
+                margin-top: 10px;
                 font-style: italic;
                 flex-direction: column;
                 font-size: 25px;
@@ -32,99 +50,109 @@
                 
             }
             button {
-                margin-top: 0%;
-                background-color: #23364D;
+                margin-top: 10px;
+                margin-left: 0%;
+                margin-top: 5%;
+                background-color: #522051;
                 border: none;
                 border-radius: 17px;
-                color: white;
-                padding: 15px 32px;
+                color: #EDF1F2;
+                padding: 10px 15px;
                 text-align: center;
                 text-decoration: none;
                 display: inline-block;
                 font-size: 16px;
-                font-family: 'Roboto Mono', monospace;
+                font-family: 'Montserrat', sans-serif;
+
               }
         }
         .image1{
-          margin-top: 100px;
+            margin-top: 100px;
           height: 400px;
           width: 45%;
           display: flex;
           flex-direction: row;
-          background-image: url('/E1-2.png');
+          background-image: url('/E1.png');
             background-size: cover; 
         }
-    }
-    .TaylorText{
-        margin-top: 50px;
-        width: 60vw;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 3%;
-    }
-}
-p{
-    font-size: 1em;
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: white;
-}
-
-@media (max-width: 800px) { 
-    .background-blog {
-        width: 100vw;
-        .top-transcript{
-        flex-direction: column;
-        margin-left: 0px;
-        margin-top: 0px;
-        .image1{
-            position: relative;
-            width: 100vw;
-            margin: 0px;
-            border-radius: 0px;
-            background-image: url('/E1-2.png');
-            background-size: cover; 
-        }
-        .highlight-block{
-            position: absolute;
-            width: 90%;
-            margin-left: 5%;
-            margin-top: 2%;
-            .title{ 
-                margin-top: 100px;
-                width: 100%;
-                flex-direction: column;
-                font-size: 35px;
-            }
-            .highlight{
-                margin-top: 30px;
-                font-style: italic;
-                flex-direction: column;
-                font-size: 20px;
-                font-family: 'Lato', sans-serif;
-               
-            }
-           
-        }
-        .title{
-            margin-left: auto;
-            margin-right: auto;
-            width: 80%;
-        }
-
-    }
-    .TaylorText {
-        margin-left: 50px;
-        p{
-            font-size: 1em;
-            font-family: 'Lato', sans-serif;
-            font-weight: 200;
-            color:white;
-            }
     }
     
 }
- 
+p{
+    font-size: 1em;
+    font-weight: 200;
+    color: #EDF1F2;
 }
 
+@media (max-width: 800px) { 
+    
+        .background-blog {
+            width: 100%;
+            position: relative;
+            .top-transcript{
+            flex-direction: column;
+            margin-left: 0px;
+            
+            .image1{
+                width: 100vw;
+                margin-top: 12%;
+                border-radius: 0px;  
+                background-size: cover; 
+            }
+            .highlight-block{
+                margin-top: 0px;
+                position: absolute;
+                width: 90%;
+                margin-left: 5%;
+                margin-top: 2%;
+
+                .title{ 
+                    margin-top: 60px;
+                    width: 100%;
+                    flex-direction: column;
+                    font-size: 45px;
+                }
+                
+                .highlight{
+                    margin-top: 16px;
+                    margin-bottom: 0px;
+                    font-style: italic;
+                    flex-direction: column;
+                    font-size: 20px;
+                    font-family: 'Lato', sans-serif;
+                   
+                }
+               
+            }
+            
+
+        }
+        .TaylorText {
+            margin-left: 20px;
+            margin-top: 15%;
+            p{
+                font-size: 1em;
+                font-weight: 200;
+                color:#EDF1F2;
+                }
+                .iconblock{
+                    .podcastlink1{
+                        margin-left: 15px;
+                        height: 40px;
+                        margin-right: 15px;
+                        margin-top: 5px;
+                    }
+                    .podcastlink2{
+                        height: 40px;
+                        margin-top: 5px;
+                    }
+                }
+        }
+        
+    }
+     
+    }
+    
+        
+    
     

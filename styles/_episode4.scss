@@ -1,133 +1,27 @@
-.background-blog {
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
+.background-blog { 
     .top-transcript{
-        margin-left: 10%;
-        margin-top: 0%;
-        display: flex;
-        flex-direction: row;
-        .highlight-block{
-            display: flex;  
-            flex-direction: column;
-            width: 40%;
-            margin-left: 3%;
-            p{
-                font-family: 'Lato', sans-serif;
-
-            }
-            .title{ 
-                margin-top: 100px;
-                width: 100%;
-                flex-direction: column;
-                font-size: 45px;
-            }
-            .highlight{
-                margin-top: 30px;
-                font-style: italic;
-                flex-direction: column;
-                font-size: 25px;
-                font-family: 'Lato', sans-serif;
-                
-            }
-            button {
-                margin-top: 0%;
-                background-color: #23364D;
-                border: none;
-                border-radius: 17px;
-                color: white;
-                padding: 15px 32px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
-                font-size: 16px;
-                font-family: 'Roboto Mono', monospace;
-              }
-        }
-        .image4{
-          margin-top: 100px;
-          height: 400px;
-          width: 45%;
-          display: flex;
-          flex-direction: row;
-          background-image: url('/E4.png');
-            background-size: cover; 
-        }
-    }
-    .TaylorText{
-        margin-top: 50px;
-        width: 60vw;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 3%;
-    }
+    .image4{
+    margin-top: 100px;
+    height: 400px;
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    background-image: url('/E4.png');
+    background-size: cover; 
 }
-p{
-    font-size: 1em;
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: white;
+}
 }
 
 @media (max-width: 800px) { 
-    .background-blog {
-        width: 100vw;
+    .background-blog { 
         .top-transcript{
-        flex-direction: column;
-        margin-left: 0px;
-        margin-top: 0px;
-        .image4{
-            position: relative;
-            width: 100vw;
-            margin: 0px;
-            border-radius: 0px;
-            background-image: url('/E4-2.png');
-            background-size: cover; 
-        }
-        .highlight-block{
-            position: absolute;
-            width: 90%;
-            margin-left: 5%;
-            margin-top: 2%;
-            .title{ 
-                margin-top: 100px;
-                width: 100%;
-                flex-direction: column;
-                font-size: 35px;
-            }
-            .highlight{
-                margin-top: 30px;
-                font-style: italic;
-                flex-direction: column;
-                font-size: 20px;
-                font-family: 'Lato', sans-serif;
-               
-            }
-           
-        }
-        .title{
-            margin-left: auto;
-            margin-right: auto;
-            width: 80%;
-        }
-
-    }
-    .TaylorText{
-        margin-top: 70px;
-        width: 70vw;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 3%;
-    }
-    
-    p{
-    font-size: 1em;
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: white;
+    .image4{
+        width: 100%;
+        margin-top: 12%;
+        border-radius: 0px;  
+        background-size: cover; 
+       
     }
 }
-
 }
-
-    
+}

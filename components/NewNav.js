@@ -20,8 +20,8 @@ export default function NewNav() {
                     <a title="Stories"><img className="navIcon" src="podcastIcon.png" /></a>
                 </Link></li>
 
-                <li><Link href="/Music">
-                    <a title="Music"><img className="navIcon" src="musicIcon.png" /></a>
+                <li><Link href="/About">
+                    <a title="Music"><img className="navIcon" src="info.png" /></a>
                 </Link></li>
 
             </ul>

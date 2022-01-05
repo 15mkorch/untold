@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap);
 //font-family: 'Roboto Mono', monospace;
-@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Arimo&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Open+Sans:wght@300&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Nanum+Pen+Script&family=Open+Sans:wght@800&display=swap);
 html, body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
@@ -10,79 +12,150 @@ html, body {
   
 }
 .background1 {
-  background-color: #030302;
-  width: 100vw;
-  height: auto;
-  color: #ffffff;
-  position: relative;
-  display: flex;
-  flex-direction: row;
+  background-color: #141314;
+    width: 100vw;
+    height: auto;
+    color: #EDF1F2;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    .eeetitle{
+      margin-top: 4%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 5%;
+    }
+    .sitckfigureflex{
+      margin-left: 5%;
+      margin-right: 3%;
+      width: 94%;
+      display: flex;
+      flex-direction: row;
+      .eeeflex{
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        margin-right: 3%;
+      }
+    }
   
   .homeContainer{
-    width: 50vw;
+    width: 55vw;
     position: absolute;
-    margin-top: 12%;
+    margin-top: 10%;
     z-index: 34;
-    margin-left: 15%;
+    margin-left: 9%;
     .homeTitle{
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Lexend Deca', sans-serif;
+      letter-spacing: 0.2em;
+      margin-left: 0%;
       font-size: 3.7em;
+      font-weight: 700;
+      text-align: justify;
+      text-justify: inter-word;
     }
     .homeSubtitle{
-      font-family: 'Nanum Brush Script';    
+      font-family: 'Montserrat', sans-serif;
+      width: 75%;
+     
     }
 
       button {
         margin-left: 0%;
         margin-top: 5%;
-        background-color: #23364D;
+        background-color: #522051;
         border: none;
         border-radius: 17px;
-        color: white;
+        color: #EDF1F2;
         padding: 10px 15px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        font-family: 'Roboto Mono', monospace;
-      }
-  }
+        font-family: 'Montserrat', sans-serif;
 
+      }
+      
+    }
+    h3{
+      font-family: 'Arimo', sans-serif;
+      font-weight: 600;
+  }
+  h2{
+    font-size: 30px;
+  }
+ 
   .homePhotoContainer{
     width: 75%;
     height: 50%;
     margin-top: 7%;
 
     .picture {
-      object-fit: contain;
-      max-width: 100%;
-      height: 90vh;
-      width: cover;
+      width: 100%;
+      height: auto;
       display: flex;
-      margin-top: 5%;
+      margin-top: 0%;
       z-index: 1;
       margin-left: 25%;
     }
   }
-    
+  .blockChainTitle{
+    margin-left: 8%;
+    margin-top: 4%;
+  }
+  .blockChain{
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 4%;
+  } 
+  p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+
+  }
     
 }
 
 @media (max-width: 800px) {  
   
   .background1 {
+    height: auto;
+    padding-bottom: 40px;
+    .sitckfigureflex{
+      margin-left: 5%;
+      margin-right: 3%;
+      width: 94%;
+      display: flex;
+      flex-direction: column;
+      .eeeflex{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+
+      }
+      
+    }
+    .eeetitle{
+      margin-left: 5%;
+      margin-right: 3%;
+      margin-bottom: 15px;
+    }
+
     .homeContainer{
       margin-top: 20%;
-      width: 100vw;
+      padding-bottom: 30px;
+      width: 80%;
       .homeTitle{
-        font-size: 2.7em;
+        font-size: 2.1em;
       }
       .homeSubtitle{
         font-size: 1.7em;
       }
-
+      h2{
+        font-size: 17px;
+      }
       button {
-      margin-top: 60%;
+      margin-top: 10%;
       }
 
   }
@@ -95,11 +168,12 @@ html, body {
     .picture {
       object-fit: cover;
       max-width: 100%;
-      height: 90vh;
+      height: 60vh;
       width: cover;
       display: flex;
       margin-top: 5%;
       z-index: 1;
+      opacity: 40%;
     
     }
   }
@@ -109,7 +183,7 @@ html, body {
 }}
 
 @import '_mixins';
-@import 'navbar';
+
 @import 'story';
 @import 'stories';
 @import 'about';
@@ -125,3 +199,4 @@ html, body {
 @import 'sidenav';
 @import 'about';
 @import 'music';
+@import 'roadmap';

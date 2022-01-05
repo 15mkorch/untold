@@ -1,6 +1,6 @@
 
 .aboutContainer{
-  background-color: black;
+  background-color: #141314;
   margin-left: 10%;
   margin-top: 10%;
   display: flex;
@@ -25,7 +25,7 @@
 
 
   .aboutphoto1{
-    height: 230px;
+    height: 175px;
     transform: rotate(-15deg);
     filter: brightness(50%);
 
@@ -36,7 +36,7 @@
         
     }
   .aboutphoto2{
-    height: 200px;
+    height: 175px;
     transform: rotate(10deg);
   }
 
@@ -45,7 +45,7 @@
     }
     
   .aboutphoto3{
-    height: 200px;
+    height: 175px;
     transform: rotate(5deg);
     filter: brightness(60%);
   }
@@ -54,7 +54,7 @@
     }
   .aboutphoto4{
     margin-top: -10px;
-    height: 270px;
+    height: 180px;
     transform: rotate(-12deg);
     filter: brightness(60%);
   }
@@ -62,16 +62,31 @@
     transform: rotate(-14deg);
     }
   
-}}
+}
+button {
+  margin-left: 0%;
+  margin-top: 5%;
+  background-color: #522051;
+  border: none;
+  border-radius: 17px;
+  color: #EDF1F2;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Roboto Mono', monospace;
+}
+}
     
 
   @media (max-width: 800px) {
     .aboutContainer{
-        margin-left: 14%;
+        margin-left: 5%;
         position: relative;
-        background-color:black;
+        background-color:#141314;
         width: 95%;
-        height: 1200px;
+        height: 1050px;
         .top{
             width: 83%;
             position: absolute;
@@ -84,23 +99,27 @@
         .aboutPhotos{
             position: absolute;
             width: 80%;
-            margin-top: 15%;
+            margin-top: 150px;
 
             .aboutphoto1{
-                height: 210px;
+              margin-bottom: 30px;  
+              height: 150px;
                 filter: brightness(50%);
               }
               .aboutphoto2{
-                height: 180px;
+                margin-bottom: 30px;
+                height: 150px;
                 filter: brightness(80%);
               }
               .aboutphoto3{
-                height: 180px;
+                margin-bottom: 30px;
+                height: 150px;
                 filter: brightness(40%);
               }
               .aboutphoto4{
+                margin-bottom: 30px;
                 margin-top: -10px;
-                height: 250px;
+                height: 135px;
                 filter: brightness(40%);
               }
         }
