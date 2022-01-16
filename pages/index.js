@@ -36,15 +36,18 @@ export default function Home() {
       <div className="sitckfigureflex">
         <div className="eeeflex">
           <h4>Educate.</h4>
-          <p>Provide resources that bring clarity to symptoms of unhealthy mental patters as well as  abusive circumstance often brought about by mental illness. </p>
+          <p>Provide resources that bring clarity to symptoms of unhealthy mental patterns. </p>
+          <img className="sticks" src="/educatestick.png" />
         </div>
         <div className="eeeflex">
           <h4>Empathize.</h4>
           <p>Foster deep community so that no one feels alone in their fight for freedom.</p>
+          <img className="sticks" src="/empathizestick.png" />
         </div>
         <div className="eeeflex">
           <h4>Encourage.</h4>
           <p>We know the journey toward health and freedom is long. We we're here to support and grow along side of you. </p>
+          <img className="sticks" src="/encouragestick.png" />
         </div>
         <div>
 
