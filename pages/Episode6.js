@@ -22,7 +22,7 @@ export default function Episode6() {
                     <h1 className='title'>Fight One More Day</h1>
                     <p className='highlight'> "Do you believe he's a king of good intentions? I have to stand on that even when every bit of my circumstance looks the opposite."</p>
                     <div className="buttons">
-                        <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
+                        <a href="https://kailani.btc230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
 
                     </div>
                 </div>
@@ -39,15 +39,15 @@ export default function Episode6() {
                     </Link>
                 </div>
 
-                <p className="speakerName">Mary: </p>
-                <p> I would dare to say that some of the most important stories go untold that many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story project is a collection of stories from people who've said, yes, I want to speak out to bring education, empathy, and hope to those around me. My name is Mary and I hope you were blessed by this episode of The Untold Story project. </p>
+                <p className="speakerName">kailani.btc: </p>
+                <p> I would dare to say that some of the most important stories go untold that many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story project is a collection of stories from people who've said, yes, I want to speak out to bring education, empathy, and hope to those around me. My name is kailani.btc and I hope you were blessed by this episode of The Untold Story project. </p>
 
                 <p> Hi, Angelica, I've been so excited to connect with you. You know, even before meeting, I just want to say thank you for being loyal to pray for me and encourage me and reach out with scripture anytime when I really needed it. And so, I just know that says a lot about your desire to love others in the way that the father would. So, thank you and I'm glad we finally get to meet.
                 </p>
                 <p className="speakerName">Angelica: </p>
                 <p> Absolutely girl, same. I'm so excited for this</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> And so, can you kind of explain what your passions are? What do you do in your everyday life?</p>
 
                 <p className="speakerName">Angelica: </p>
@@ -55,19 +55,19 @@ export default function Episode6() {
                 <p> So that's pretty incredible. And we just have girls’ nights every night. Whatever the ladies want to do, if they want to watch movies or if they want to do nails or if we want to do hair, whatever it is and we just pour into them with love and encouragement. And that's kind of just a reflection of really where my heart is for the world. And just the kingdom is I think that so many of us in the world and myself included for a long time just forget that God is there with us, and that he loves us. And I think that's where we lose our purpose is we forget that we are loved by the Creator of the universe and by Jesus or we don't know. Maybe we haven't learned that yet or I've been told that yet. </p>
                 <p> And so the same way at the safe house, that's kind of how I am in everyday life is my goal every day is to be loved to people, to let them know that they're loved and to encourage them in any way that I can, whether that's through comedy or through scriptures or through conversations or to genuinely make eye contact with the person at the grocery store and ask them how their day is to know and not just to ask but to really connect with people and let people know that they're seen. I think that that's what Jesus did and that's kind of my goal in life is however, I can do that in my day to day. That's what I want to do.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> That's such a rewarding job. And I can just see as you're talking about it, how much your heart is in it, and how much you light up for that. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> It's good stuff. </p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> And I've heard of ‘Out of Darkness’ when we were in Atlanta. So, it's kind of cool to see someone who's you know, like actually working for the program.</p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Yeah. It's amazing. God's really faithful.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Is there anything that specifically prompted you to go into this line of work?</p>
 
                 <p className="speakerName">Angelica: </p>
@@ -77,19 +77,19 @@ export default function Episode6() {
                 <p> My now shift partner and best friend at the safe house prayed over me for open doors and closed doors that someone who didn't know me would speak this into my life. And that scriptures would start to come to life that would confirm my calling there. And she prayed this over me when we met for coffee just to talk about the job. And two hours later, my house church leader preached from 1 John 1&2, which is all about coming out of darkness into light. The following week, a friend set me up on a FaceTime with one of their mutual friends who I'd never met before. Within the first five minutes she's like, “look, I don't know you but I have chills all over the left side of my body. The Lord's for sure calling you into this” and meanwhile hyperventilating internally. And then we got our email about the race, about what our options were, as far as COVID was concerned. And I remember opening the email reading it and just had this closure in this peace that I was done with the race like that. That was my two and a half months was what it was and that was it. And I had applied for out of darkness maybe two months, or no, two weeks or so prior to that and hadn't heard anything back. </p>
                 <p> So I was like, you know that's maybe that ship has sailed. And I closed out of the world race email with this overwhelming piece of that's done. Like you're finished with the race. And exactly one minute later, I closed the world race email at 4:25. At 4:26, the email from my now supervisor came in to set up my first phone interview. And she had been sick and she said “so sorry, it's taken me so long to get back to you. We love to set up an interview with you. And I just wrapped in your promises are yes and amen was playing on my shuffle on my Apple Music. And I just held my hands out that God whatever you want, wherever you want me, I'll go. Like take my life, it's yours. Wherever you want to send me, even if it scares me. I'll go. Yeah, two months later, I was hired and been there almost six months now and it has been the most challenging, most life changing, most incredible thing I've ever stepped into in my life.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Well, I love hearing how people end up where they do just because God always you know, when we say yes to God, it's always a crazy path and somehow he makes it clear. So I'm so happy that he did that for you all. Are you from the Atlanta area?</p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Yes, I was born and raised in Gwinnett. So Lilburn is my hometown. Lilburn, Georgia, we also call it thrill burn Georgia, for the real Oji kind of people from Gwinnett. It's not thrilling but we call it thrill burn. So I grew up there and I went to school at Ole Miss, got my degree in acting and then moved back to Atlanta. And now I live in Atlanta full time.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> That's awesome. Is your family still in the area?</p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Yes, my mom is still here. My godfather is here. I have a couple of cousins and a couple of aunts that are still in Georgia.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Now, could you tell me a bit about your family?</p>
 
 
@@ -97,7 +97,7 @@ export default function Episode6() {
                 <p> Yeah, for sure. I grew up with my parents split up. I always said that growing up, I had a very broken family life but I also never lacked anything in my family, which I just attest to the grace of God. I was very blessed. When I was in school in elementary school and middle school, I usually always had a duffel bag with me because every day either my grandma would pick me up, my other grandma would pick me up, my mom would pick me up, my dad would pick me up or I would go home with a friend. And so constantly, I was always moving around. But it was because I had four separate homes that really loved me and then several really incredible friends who became family really quickly as a child. And so, it was a broken life in a lot of aspects of what like the world would maybe call you know, a typical home life, whatever that means. But yeah, I just always was at a different house. And, you know, one grandma was a very like Southern Baptist grandma who made buttermilk biscuits and read the Bible all the time and preach to me all the time. </p>
                 <p> My other grandma was she was a southern belle, but she was a little more boujie, a little sassier. and so we would like make fudge together and make toffee together and we would you know go to Saks Fifth Avenue because that was where you went when you were an elegant young lady at age 12. You know, and we would do fun stuff like that. My mom was a single mom that grinded her life away working so that I could have everything that I needed. As far as doctor's office visits, dental appointments, braces, tennis lessons, swimming lessons, my mom wanted me to be in everything possible. And then my dad was kind of the fun dad. He got to do a lot of the fun things that my mom didn't completely always get to do with me because she was working very hard. We would go on great vacations occasionally with my godfather.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Yeah, what a blessing it is to be able to look back on life and realize your life is scattered in so many different pieces. But to realize that all of those pieces were beautiful and did make a hole. I think that's a perspective that a lot of people don't have. And I'm glad that you were blessed with so many amazing people in your life and that kind of micro families in a way. And I know you had shared with me previously kind of something we've bonded over because of my personal experience over the past couple weeks. It's crazy how God brings us the people we need and the stories we need, right when we need them. And you had mentioned that in college, when you were having a very positive relationship with your father, that you got a call out of the blue one day that he had committed suicide. And so that's really a lot to take in. I know the moment you receive a call with some tragic unexpected news like that. It's this moment of, wow, my life is actually never going to be the same. If you don't mind me asking, were you ever able to receive clarity on why your father committed suicide? </p>
 
                 <p className="speakerName">Angelica: </p>
@@ -106,19 +106,19 @@ export default function Episode6() {
                 <p> And the more that I've learned about mental health and just the Holy Spirit and demonic activity even though that's such a scary word to people, it's just Satan in spiritual form. I really think that mental health is very deeply connected to our spiritual life. I very much think that it is an attack on our spirit. I think that it is the enemy's easiest way to get to us is through our mental space, our headspace, through our soul, which is our mind, body and our emotions. And if you think of like the way that the enemy attacks it's usually through those outlets but he can't take our spirit, right? Looking back there was different things. My dad had started talking about cloud angels a lot. He was very focused on heaven and very focused on ethereal kind of things. He was very immersed in the word at the end of his life. The last two years of his life were probably the closest that he had maybe ever been in his life to Jesus. And I know that definitively. He loves the Lord. Actually, when he committed suicide, he had a gospel album playing on the CD player. And so, I really think looking back that I think he just wanted to go to heaven. I think he was really done with the pain of earth. And I think that there were things that I would never know till this day and I'll never have answers to. And one of the biggest things I wanted to understand when this happened was why. Like I wanted answers from God. I wanted answers of did he not know that he was loved? Did he not know all these, you know that so many people would be hurt and that so many people would miss him? And I really had to wrestle that out with the Lord and realize that there are answers that I'm not going to get. And there's a peace that comes with that as much as there's a frustration because there are certain things that we will not understand on this side of heaven. I think it's in Colossians 1 where it talks about the mystery of the gospel, which is Christ in us the hope of glory. And so the mysteries come within the person of Jesus. And so, there are things that I won't understand. But I can look and see the suffering that Christ went through legitimately on the cross and see that there are suffering that's supposed to be a part of our life that a good God sent His Son to die on a cross to do a miracle for us. </p>
                 <p> And so, I don't understand the whys of why this suffering was in my dad's life. I don't understand why the pain has come of losing him to suicide in my own life. But I can look to Jesus and know that the hope of glory is in the mystery that is unveiled in Christ Jesus himself. And so I don't have to understand that. Yes, it's frustrating for my flesh. But for my spirit, it's just something that's actually freeing that I can release that to God and not have to question it because I'm not God. So I can fixate on Jesus instead. Trust that I'll get those answers one day. And I received a vision actually, during World race training camp. We were listening to lean back one of the nights and I remember hearing the lyrics, I'll lean back in the loving arms of a beautiful father. And I immediately got really sad because I thought, well, I can't do that I can't lean back in my dad's arms anymore. And God just gently reminded me, no, but I'm here for you to lean back into. I'm here for you to rest in my presence. And I immediately had this vision. I have not a lot of visions from the Lord but I had this vision of Jesus, just standing on this big white cloud just surrounded by light and surrounded by what I guess was Heaven, I assumed was heaven. And my dad walked up behind him, put his arm around him and he was dressed in all white just restored. I mean, smiling as big as he could like he always did. And he just put his arm around Jesus and started waving at me, this vision. And it was so sweet because it was during lean back and during these lyrics of your love is better than all the others that I need, or all the others that I've seen. I remember thinking like my dad's good, like, he's restored. He's in heaven even though a lot of people have differing views on you know suicide and suicidal attempts and things like that. I feel like that was God letting me know, like, he's okay, he's with me, he's with Jesus. And so I have peace and knowing that I'll get answers on the other side of heaven, you know, and I don't have to worry about those things now.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Yeah, thank God that He gave you that peace. You know, I think it's so beautiful that you know, when we're worried about something and we reach out to God for that confirmation of peace that he gives it to us whether it's new visions or dreams or prophecy or scripture itself. And it's such a freeing feeling to realize we're not in control. </p>
 
                 <p className="speakerName">Angelica: </p>  17:31
                 <p> Amen.</p>
 
-                <p className="speakerName">Mary: </p>  17:32
-                <p> You know, I think something God's been talking to me about is he's like Mary like you're not equipped to be in control. You shouldn't want to be in control. So just let me take this, you know. And it's beautiful to hear you walk through the journey of like, you know, I might not have the answers but God does and he's good. And he's taking care of everything. </p>
+                <p className="speakerName">kailani.btc: </p>  17:32
+                <p> You know, I think something God's been talking to me about is he's like kailani.btc like you're not equipped to be in control. You shouldn't want to be in control. So just let me take this, you know. And it's beautiful to hear you walk through the journey of like, you know, I might not have the answers but God does and he's good. And he's taking care of everything. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Absolutely! I completely agree. We don't have that much power, you know, to be in control. I've learned that and I rest in that so much as you know, when you're thinking about, oh, well, I'm just worried about this or I'm concerned about this or what if you know should I feel guilty about that? Or should I feel shame in this specific thing? We don't have that much power, you know. We are not God and praise him for that you know so I agree completely.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> I think there's a stigma around suicide. There's so many stigmas. But I think one of them is that you don't have a good relationship with God. I love that you shared love for God and the connection that he had with Scripture and worship and things like that. Because, you know, there's so many reasons why people go through something like this. It's not just like a one generic answer. I just will be smiling with you that your father like is meeting Jesus even though he's not here right now. And that you and so many other people want to be with him but to celebrate the fact that he does know the Father's love. What was your favorite quality about your father?</p>
 
 
@@ -126,7 +126,7 @@ export default function Episode6() {
                 <p> Oh, that's such a good question. There were so many. Oh man, his giving heart. He gave away so many things. He would buy gifts for people all the time just to shower them with love. I remember, we left my PTSA I think it was our awards night, my senior year of high school and my good friend Cory was there. My dad had a plant that he had gotten for Cory and he literally left the PTA meeting and followed Cory out of the parking lot to honk at him for Cory to pull over because he wanted to give him this plant. And he didn't touch him at the BGA awards night and that was just his heart was like “yo man, I got you this plant dude like congratulations on graduating.” Or he'd get custom made pocket knives for my guy friends or he would, you know give $50 in the car to one of my girlfriends just because he wanted to give. He loved music. He loves the arts. He loved creativity. When I was in college there were plays and shows and dance theater that we had at Ole Miss that I wasn't even in. And he would travel over to Mississippi to come and see Mississippi the dance company to see a dance show to see a concert to see a live band play down at the Oxford square. And I wouldn't be in them. And he would just come because he wanted to be a part of like music and culture and art. And that's so my heart as well. He loved the Lord. He loved preaching the gospel. </p>
                 <p> The last, like I said two to four years of his life, he was so on fire for Jesus. He was the only person I knew that would drop the F bomb at the same time he was preaching the gospel to you, and it was endearing. It wasn't, you know, like, well, I don't know how God feels about that. But he was so passionate about sharing it with you that he didn't care that he had the mouth of a sailor, you know. He knew that God knew his heart and he was there to share it. And however that came out was how it came out. Yeah, there were so many things I loved about him. He was a wild man. But he was a very kind man and a very outgoing man. And he wanted people to know they were loved and that they were seen and cared for.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> That's so incredible. And I know that, you know, traumatic events like suicide really affects not only like you personally but your relationships with other people. So, how did that affect your family dynamic?</p>
 
                 <p className="speakerName">Angelica: </p>
@@ -134,7 +134,7 @@ export default function Episode6() {
                 <p> As far as I was concerned, I wanted to immerse myself self in the pictures. I wanted to see the photos. I wanted to hold on to the tangible reminders. I wanted to hear his songs and his music that he listened to with me all the time. And so, for me, I think I went through a very different grieving process than a lot of other people did. It made closer with my aunt. My aunt is a rock in my life now. My brothers and I, after several years of kind of being pretty distant after my dad died have gotten closer. We're now closer than we've ever been in my life at age 30, which is just incredible. And like I said, they're 20 years older than me. And so I think it's just remembering that God's going restore things in his own time. And the dynamics might look really messy and really painful at first. But there is restoration, I think. A lot of fervent prayer went into that on my end of just hoping that God would work things out the way that he needed to with different relationships that we're connected to my dad. God has been faithful in the little sweet things like that, to keep relationships growing and restoring even in the midst of pain and in the midst of brokenness. But yeah, it's been a wild journey but also a strengthening journey, you know. I think we always have a choice of how we look at stuff, right. And I praise God that he's given me a heart to find the strength. And it doesn't mean that I don't have days where I break down and just sob myself to sleep missing him so much. Those days come. </p>
                 <p> But I heard a sermon last year about not unpacking in the places that you feel pain to remain with your faith over your feelings at all costs. Because if you unpack your bags in a place of sadness or you unpack your bags in a place of pain and you decide to move into that space, you might not move out for a while. It doesn't mean that you can't walk through that room with your bags and know that you're feeling down or know that you're feeling heartbroken or know that you're missing someone. But just don't unpack and live there. Remember that there's another room that's, you know, where the Holy Spirit is and go back to that.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> I like that example of unpacking bag. And kind of like, how do we process something like this? You know, something that I've been kind of questioning is how do you take, like, how do you allot your time for a grieving process but then also kind of in some ways celebration and you know, kind of thinking about normal life and everything that's going on? Do you have any insight as to that balance?</p>
 
                 <p className="speakerName">Angelica: </p>
@@ -145,7 +145,7 @@ export default function Episode6() {
 
                 <p> Elizabeth Elliot wrote a book called be still my soul. And she talks about an acceptance, life, peace. And so we find peace from just accepting ourselves, accepting our circumstances, accepting our feelings and accepting what's happening around us. And in that space, we can find peace and the peace comes in and how we respond to it. So however you grieve, however you want to respond is okay, I think. And you know, I cried my eyes out the first day that I found out that my dad had died. Came home sob the first day and then I didn't cry the rest of the week. I gave his eulogy and didn't shed a tear for all intensive purposes. Got back to college, I always called him when I came back to school. And I got back to school and I couldn't call him and I was wrecked over again. But yet the week before and giving his eulogy, I didn't cry at all. But when I couldn’t call him, it hit me in a different way. So it's like, I think we just need to take the pressure off of what the world wants us to grieve like and if there's a right or wrong and just allow ourselves to feel and trust the Holy Spirit to steward the way our emotions are going to go, you know and see where he leads us. Because crying on someone's shoulder. You know, we all have different ways. And I think just remembering that we can do whatever we need to do to get through things.
                 </p>
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Hearing you talk about like the balloon releases and the things that you've done to honor your father are making me cry. It's so beautiful. I love and I'm sure he's looking down thinking how beautiful that is too. So were you ever mad at God throughout this process? Throughout this process, have you ever been mad at God?</p>
 
 
@@ -156,13 +156,13 @@ export default function Episode6() {
 
                 <p> I wasn't really wanting to keep him as a priority really at the time. I wanted to do my own thing because I was just kind of wallowing in a lot of pain. And even though I stayed close to the Lord, for, you know, certain things. I still had a prayer life. I still trusted God. I still knew that he was with me. He was definitely just not priority in my life. I was living for myself and my own desires and such. And so was I ever mad at him? No, but he definitely took far last place in my life. And I didn't really get transitioned or transformed by the Holy Spirit really until the last two years just in sanctification and understanding what an intimate relationship was. I grew up going to church, going to Vacation Bible School, going to FCA and young life and all the things. I was in a Christian sorority for one of my years at Ole Miss but I did not know who the Holy Spirit was. I did not really understand a relationship with Jesus. I hadn't encountered Jesus yet. And then once that happened, everything started transitioning but yeah, even in the process, I think I rebelled and turned away from Him. But I don't think I ever was angry with him. And I don't think I ever fully doubted his goodness. I knew that I was the one that was kind of running wild. God didn't fall off his throne because my circumstances got crazy. You know, God's character didn't change because my life changed. And yet, I'm learning that more and more now as I'm getting older. And one of my favorite worship songs right now is Kari Jobe, your nature. And just holding on to the fact that it's like there is no desert that your streams can't run to. There's no ruins that your love won't make new. I know this wasteland will be whole again because it's your nature. And so even if it's a wasteland even if it's ruins, it's going to be whole again because that's who he is. It's what he does, you know. And I've gripped onto that more and more as I've processed through and grieved through the loss of my dad.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> And I think it's crazy how we can know who God is for so long. But there's a difference between knowing him and freedom in Him. You know, and so sounds like you've been on a bit of that journey too. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Knowing him and finding freedom, yeah. Both were things I was lacking in their entirety. And still, right your life journey is if God is an infinite God, you know, I'll never know everything. Even when I feel like even when I'm in in heaven, like, will we ever really know all of God? I don't think so. I think there's always more. There's always deeper depths. There's always new levels which is so exciting because you literally can't get enough. It's great.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Yeah, he's so good. That's incredible. Thinking back to especially, you know the time when you found out about what happened to your dad, what did you need, personally?</p>
 
                 <p className="speakerName">Angelica: </p>
@@ -172,27 +172,27 @@ export default function Episode6() {
 
                 <p> And then counseling, you know, to be frank, I didn't really want to go to counseling. And I went to our like University Counseling which wasn't the greatest because it was you know, master's students that were training to be counselors and not all of them were the best. So, I wasn't the biggest fan of counseling at first and now it's a huge part of my life. Now I'm an advocate for counseling and I have a sweatshirt and a mug that says ‘it's okay to have Jesus and a therapist too.’ And I think that the Lord empowers us, you know, in certain ways to be able to counsel people through difficult things. I do a lot of that in my own life nowadays. And so to just see the fruit of the Lord empowering people to be able to help us. </p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Yeah, and we need each other, you know. Like he built us in community and relational for a reason. I know making so many connections. Yeah, those words of encouragement and scripture and whatever it may be, someone there to listen or someone there to counsel means so much. So just really shows the relational nature of who we are and who God is and who he designed us to be. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Absolutely. And I think even thinking back to like that was my need. And so now when I hear people you know, going through certain situations, for instance your situation, I don't have to know who you are. I don't have to know your situation intimately to have the Holy Spirit pour through me and try to encourage some other people and other people walking through the same stories. I always say like I'll never fully understand what anyone else feels like because everyone's story is intimate but I can relate to your feelings. And therefore, if I can relate that gives us some sort of a common ground of connection, right? And so, then we can step into that space of relatability and connection and be able to like meet there even if we don't know each other deeply. </p>
 
-                <p> I love that, like God knows what we need before we ask. I love that scripture. The Lord spoke to me last year, when I really started just praying really bold prayers for a lot of people in my life. You don't have to know their need to intercede. And so, I don't have to know you intimately. I don't have to know your story intimately to trust that the Lord is going to give me a download of what you need in that moment. And I think he's always speaking to us. It's just a matter of if we're listening or not, you know. There's a verse I want to say it's also in Colossians, if I'm not mistaken and it says “to this end, I strenuously contend with all the energy that Christ so powerfully works within me.” And I love that verse because it's not my energy. It's the Holy Spirit into me and into us as empty vessels. And it's his energy that powerfully works within us. Like I strenuously contend but with the energy that Christ works in me. So, I can be fighting and I can be contending for people in faith but it's Jesus's energy that's going to actually do something and make change. Angelica can't make change. You know what I mean? Like Mary can't make change but us as vessels with his energy and us stewarding it well, can change and transform people.</p>
+                <p> I love that, like God knows what we need before we ask. I love that scripture. The Lord spoke to me last year, when I really started just praying really bold prayers for a lot of people in my life. You don't have to know their need to intercede. And so, I don't have to know you intimately. I don't have to know your story intimately to trust that the Lord is going to give me a download of what you need in that moment. And I think he's always speaking to us. It's just a matter of if we're listening or not, you know. There's a verse I want to say it's also in Colossians, if I'm not mistaken and it says “to this end, I strenuously contend with all the energy that Christ so powerfully works within me.” And I love that verse because it's not my energy. It's the Holy Spirit into me and into us as empty vessels. And it's his energy that powerfully works within us. Like I strenuously contend but with the energy that Christ works in me. So, I can be fighting and I can be contending for people in faith but it's Jesus's energy that's going to actually do something and make change. Angelica can't make change. You know what I mean? Like kailani.btc can't make change but us as vessels with his energy and us stewarding it well, can change and transform people.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> That's so good. And clearly it is because like I mentioned at the beginning, God's given you wisdom and experience and you've pulled that Holy Spirit down to speak to me and I'm sure you're doing that through your job and through so many different things. So beautiful how it all comes full circle, right?</p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> It really is girl. It really is. And what are the odds of your story right now, you know, lining up so much with mine and just, I think it's so crazy of even just our difficulties in planning a date for this to happen, and then Wi Fi disconnections and all these different things. It's like the enemy doesn't want stories of God's goodness to be shared. You know, he doesn't want us to connect. Like he doesn't even in a pandemic, he doesn't want us to virtually connect either. Because it just dismantles his power every time we share you know hard truths or hard things or vulnerable things that really bring glory to God through our brokenness. I think the enemy just hates it. I mean, he doesn't want those things to happen. And then when they get to happen in his face it's like, well, we knew that God was more powerful than you all along, you know, you just need to keep being reminded.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Because hearing testimonies like this just like lights my heart on fire and makes me so excited. And that's why we started that. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Amen. So real. So good.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Well, Angelica, is there anything else that God has put on your heart to say? </p>
 
                 <p className="speakerName">Angelica: </p>
@@ -203,19 +203,19 @@ export default function Episode6() {
 
                 <p> And at the end of the conversation after I prayed for him, I said, “listen, man, like, if your string of hope is just this interaction in this conversation was different than the rest of your day, then this is your string you hold on to today. If for only the 17 minutes that we've stood here, your eyes were lifted off of your circumstances and the weight was carried with someone else. Whether I really matter in your life or not, then this is your hope that you hold on to and you fight until tomorrow.” And God gave me Scriptures for him that night that I sent to him. And I prayed for him this past weekend and we've chatted since then. And so he's holding on to hope for another day, whether he felt like he had a knee or not. There's always a string of hope. There's always a silver lining of the Lord somewhere in the midst of our pain. And so yeah, that would just be my heart to share is when you think you have no fight left, just fight one more day. One more minute even, one more hour and find your string of hope, whatever that is. Maybe it's a cheeseburger from McDonald's with the 99 cents that you have in your car, of your car change because you're broke right now and you're a missionary or you're in college. Maybe it's eye contact with someone who smiles at you. Maybe it's seeing a bird outside of your window. Find that hope and hold on to it. Get to tomorrow. Get to the next day, get to the next hour and then keep fighting because we all have more fight than we believe we do. The enemy would want us to believe that we're alone. He would want us to believe the lies that we can't fight. One more hour, one more minute, one more day, but we can. And if Jesus is in us and whether we know that he's in us or not, he is you know, God created us. And so we've known the Lord at some point, whether it was in our mother's womb or whether it's now. That design of being made in His image is who we are, whether we realize it or not. And so there is a little part of God's somewhere in us. And if we can just find that out, if we can just trust that whether we believe our claim Jesus's Lord or not, it's there. And so if we can fight one more day, fight, you know, keep fighting. </p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Oh, that's so good. What an encouragement! I love that.</p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Absolutely girl.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> I would love to go ahead and pray this, especially this last message of just fighting one more day over you over me and over all of our listeners before we go. </p>
 
                 <p className="speakerName">Angelica: </p>
                 <p> Amazing. I would love to. I will join you in that.</p>
 
-                <p className="speakerName">Mary: </p>
+                <p className="speakerName">kailani.btc: </p>
                 <p> Jesus, I just thank you for Angelica story, I thank you for just the joy that she has found in you, found in knowing you and found in freedom and your God. I thank you that she's able to share the testimony of your goodness and how you have saved her father, maybe not a way that we would expect or had even desired. But you come after all of your children. You're fighting for them and I thank you that you're fighting for her father as well and that he's with you, God. And I just pray for all of our listeners that they really hold on to the hope of fighting for one more day God, that they're able to see you in the small things, you know. Whatever it is, maybe it's a small treat like an ice cream cone or in a good conversation or the mountains and the view. Father, I just thank you that you're showing up in everything and that our eyes are just continually open to see that and see your hope. So, thank you and Amen. </p>
 
                 <p> Thank you for joining us today. And if this episode could bring education, empathy or hope to those you know, go ahead and share a link. Also, if you have an untold story that you'd like to share, we'd love to meet you. Please apply to be a guest on our podcast at www.untoldstoryproject.org </p>
@@ -229,4 +229,5 @@ export default function Episode6() {
 
     )
 }
+
 

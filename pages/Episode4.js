@@ -22,7 +22,7 @@ export default function Episode4() {
                     <h1 className='title'>There wasn't a Playbook for an Incarserated Parent</h1>
                     <p className='highlight'> " Until we clarify the reality we faced for years, we won't know the redemption God has."</p>
                     <div className="buttons">
-                        <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
+                        <a href="https://kailani.btc230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
 
                     </div>
                 </div>
@@ -40,8 +40,8 @@ export default function Episode4() {
                 </div>
 
 
-                <p className="speakerName">Mary:</p>
-                <p>I would dare to say that some of the most important stories go untold. That many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story Project is a collection of stories from people who've said, “yes, I want to speak out to bring education, empathy, and hope to those around me.” My name is Mary. And I hope you were blessed by this episode of The Untold Story project.
+                <p className="speakerName">kailani.btc:</p>
+                <p>I would dare to say that some of the most important stories go untold. That many deep hurts that are hidden behind closed curtains never come to light. I hate that they're suffering in silence. I hate that some people never feel understood about how they grew up. And I hate that some people never knew the abuse they experienced wasn't right. The Untold Story Project is a collection of stories from people who've said, “yes, I want to speak out to bring education, empathy, and hope to those around me.” My name is kailani.btc. And I hope you were blessed by this episode of The Untold Story project.
                 </p>
 
                 <p>
@@ -50,13 +50,13 @@ export default function Episode4() {
                 <p className="speakerName">Allina: </p>
                 <p>Thanks for having me.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>We've talked a lot. I've had the privilege of getting to know you and your story quite a bit. And I'm excited to kind of open that up and share with others who might have shared circumstances or might not. So, thanks.</p>
 
                 <p className="speakerName">Allina: </p>
-                <p>Yeah, I've got to say, Mary, this is going to be one of the first times in a public platform that I've talked about my story so openly. So, thank you just for creating a platform.</p>
+                <p>Yeah, I've got to say, kailani.btc, this is going to be one of the first times in a public platform that I've talked about my story so openly. So, thank you just for creating a platform.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Thank you. Alright. So, I am very inspired by the vision that you've created for your life and prayed into with God. I know it's something that we talk a lot about in Global You and in our program. So can you kind of share what that vision is that you feel like God's called you to?</p>
 
 
@@ -66,14 +66,14 @@ export default function Episode4() {
 
                 <p>I experienced that in my life. My heart was broken for seeing that in children in Ukraine and all around the world and then really had my eyes open to it. When I returned to the United States and just encountered my family, my friends, and just saw it so blatantly in our society. A group of people who just had their heart closed off to parental father- mother love, that type of caregiving. Because they have either been hurt or abandoned in some way, shape or form through those relationships. So that's where my heart is now.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>That's so beautiful. I love asking people what their visions are. And just hearing you talk about it, I mean, I can see you living that out within interacting with the students. And the fact that you're able to see that internationally, as well as back home in America is just a really beautiful thing, so thanks for sharing that. And, you know, I think in thinking about our visions and what God's called us to, He has uniquely designed us for that. And sometimes that might include things that we've experienced in our past that are unique. So how do you think that God has been uniquely developing you for that calling? </p>
 
                 <p className="speakerName">Allina: </p>
                 <p>So, I never would have identified myself of having an orphan heart or an orphan spirit before some of my encounters with the Lord in the more recent years. But I also want to preface all of this in saying that, the adults that I've had in my life so as my story kind of unfolds, the adults that I had in my life, I really do genuinely believe that they did the best they could with what they were handed and the depth of relationship they have with the Lord.</p>
                 <p>So,s</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>So, what really stood out, a few things stood out to me. One specifically is decisions that were made for you. I think there's a lot to that when we don't have a say in our circumstances and that's true for so many of us. So, what, if you don't mind me asking, what decisions were made for you that you never got a chance to?</p>
 
                 <p className="speakerName">Allina: </p>
@@ -86,19 +86,19 @@ export default function Episode4() {
 
                 <p>Well, not the start, it reinforced how confused I was about my reality. And so, I was told my dad was going to prison but I was told he wasn't a bad man. But I had grown up learning that only bad people went to prison. And so that was like a very black and white aspect or truth or reality of the world that I believed as a child. It was almost immediately after that, I want to say maybe a week that my dad actually left. I didn't know that there had been trials going on before that. I didn't know that they had been working with lawyers, that there was just a million and one moving pieces that had been going on. As I was going to school and hanging out with my friends and coming home to what I knew was becoming a broken situation but I could clearly identify how.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>There's a lot to unpack there. Yeah, I think child's intuition, that's something I've never thought about in that way before. But I think a lot of times children think about things more plainly. They don't overthink things, you know, like we do when we're perhaps this age. And taking a moment to validate that and understand that is important for adults to do.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>Yeah! And there's something in that too, like children are inherently even taught to trust the adults in their lives. So, when my parents told me that my dad although he was going to prison was not a bad man, I just trusted that even though it confused me and there was an explanation put on that. I really, that's like something that really just weighs on me heavily now. I wish they would have trusted me more to have been able to handle more information, clear vision, like better understanding. Just had more open and honest conversations with me because I wasn't fully ignorant. I might not have fully understood. There was probably things that didn't need to be withheld from me because my young, inexperienced mind would not have been able to comprehend. But when you don't explain things fully that way then I don't think this is just unique to children, I think anyone will then assume the worst. Like, I fill in the gaps as I need to, to make this picture make sense to me.</p>
 
-                <p className="speakerName"> Mary:</p>
+                <p className="speakerName"> kailani.btc:</p>
                 <p>That's a really good point.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>So I think that was really just is has been a frustrating part of my journey in growth and healing was knowing that I never actually had the full picture of my reality. I still to this day, don't have a full picture of my reality because when we move out of a situation, when my dad finally came home years later, when we tried to put the pieces of my family back together, the way it was kind of chosen for me or we as a family silently chose to gather to cope was to ignore. So, we never backpedaled. We never said “let's actually bring clarity to this situation. Let's identify the missing pieces.” We just moved on, kind of.</p>
 
-                <p className="speakerName"> Mary:</p>
+                <p className="speakerName"> kailani.btc:</p>
                 <p>Yeah and correct me if I'm wrong but I've seen a lot of other circumstances, similarly, and that when something is hard or awkward, it's not talked about or it's glazed over. And then that kind of mounts on things because obviously, that's not a stable foundation. And so that becomes a pattern and then more confusion and less communication just continue to take place as things crumble.</p>
 
                 <p className="speakerName"> Allina: </p>
@@ -106,7 +106,7 @@ export default function Episode4() {
 
                 <p>Even though time and time again, psychology and science has proven that there is help on the other side of pressing into that, right? But we tend to ignore that because it's just feels too hard in the moment and I do. I saw that in my family for sure. What we experienced in the years of my dad being gone, like newspapers reported about it in the small town that I grew up in. And our church rejected us, our friends many of them rejected us. There was just a ton of backlash in that and it was a traumatic experience for my family. It was very hard on my mom to then transition into being a single mother, the single breadwinner of the family and then also just like figuring out a situation that no one ever imagines himself in.</p>
 //Good
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Yeah, no one ever says, “oh” or no one ever plans for that. </p>
 
                 <p className="speakerName">Allina: </p>
@@ -116,7 +116,7 @@ export default function Episode4() {
 
                 <p>It definitely did leave for a lot of work to be done as an adult to not fall into that tendency of control or manipulation or like grasping on as an adult. And so that's really been a big part of my walk with God over the last few years and that's why I say that my vision statement is, you know, ‘showing the Father's heart for redemption, the Father's heart’ Like he is a father. He carries the parental caring characteristics and fills in the gap where our earthly caregivers miss it and he has a heart of redemption. He wants to bring healing to all of those stories. And so, I feel incredibly grateful now sitting here with you to be able to say that I have been able to walk through a lot of that healing, that unfortunately a lot of people, I don't know if they just miss it or they're just scared of it or they just haven't had the opportunity like painted in front of them the way that it can look. But yeah, that's where I'm at today. </p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>And your joy for God as a father does radiate off of you and it radiates off of your interaction. And that's not an easy thing to think about or conclusion to come to after going through something like you've experienced. And so, was it always that way for you? How did you come to accepting God as a good father?</p>
 
                 <p className="speakerName">Allina: </p>
@@ -130,13 +130,13 @@ export default function Episode4() {
 
                 <p>Later, I got introduced to Holy Spirit and that was just like all kinds of things. Yeah, so God is a father to me really just got transformed whenever shoot. I mean at some point on my race, I started having the word daughter spoke over me. And I've always been able to identify myself as a daughter in a very layman's terms of a woman who has, like, right, very simple. But when daughter started getting paired with things like inheritance and authority and a king, who is like, I'm the daughter of a king and that concept really just took me for a ride. And it allowed me to explore with God as a parental figure in my life and that care, that attention, that provider that I just wasn't familiar with. I wasn't familiar with that as a clear concept of being necessarily a good thing. And, yeah, I can say there was like one thing that flipped the switch or one day that everything changed that my heart started to soften. I delved more into what my identity looks like as a daughter. What that ownership of that title means and started to trust God in that role of being a father in my life and to really fill in the gaps where humans fail.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>And so many of our journeys are continual and being able to press into that when there are so many negative emotions, you know, tied to those words but to continually work on your heart and pray into those things and to understand God and adopt him as a father. Because as he adopts us as His children we have to choose him back and I'm very happy for you and your journey.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>It's so cool to see how God really does show up in our lives. Is like so many different roles, right? So like Jesus is a friend. And I've also seen, like, talk to people who have said that they've dated Jesus. You know, like, they've seen Jesus as like a lover or as a romancer. And God as a father and a mother and a provider and a king. And there's just so many roles. And I don't know if we ever stopped exploring or discovering the way that God will show up in our lives that way.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Yeah. Know that's so beautiful. And has your understanding of God as a father impacted your relationship with your earthly father or how you view him at all?</p>
 
                 <p className="speakerName">Allina: </p>
@@ -151,13 +151,13 @@ export default function Episode4() {
 
                 <p>I don't always want to fight for it. That's a really hard thing is sometimes I just look at the situation where I look at my experiences or I just look at my dad and then say, “man, this is a fight.” But that is the unconditional love that God has gifted us with and we are fully capable and have the authority to make those decisions. And as an adult, I have the decision to not let the past define me and define my future. It will not define the future family that I will one day have. And I pray that it does not continue to define my family as we stand today. It does take work. It does take pressing into that pain. Eventually, I pray I get to sit down with my family. We need to have those hard conversations that clarify the reality that we faced for many years. I think until that happens, we won't fully know the redemption that the Lord has for us.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>I think taking the first step to even pray for your family is so huge. Because when you pray, you're taking it to God the Father. It's probably one of the most intimate things that you can do. And to talk on behalf of your family to God is so big. And so I commend you for doing that and continuing to press into that even when it's hard, even when you don't want to even when it's not easy. And that love, that lens that you have and looking at your family with exemplifies so much healing and so much proof of what God can really do in our hearts.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>Thank you for that. I appreciate it. I will say I think there's two things that I think I really have like walked away from my experiences with my family. It is that love is a choice in every relationship and you can choose to walk away from that. And we don't actually, to the contrary of my early childhood believe have a controlling God. One that's going to force you into the hard things. One that's going to say “no, you have to walk through this, no you have to have redemption.” Like that redemption is the choice for us to make and choosing to love anyway, is a choice that we have to make. Yeah, it is a process that has to be full of grace. And so, grace yourself on the days that is really difficult and grace for those around you knowing that we are all just human trying to do the best that we can or trusting that everyone's trying to do the best that we can.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>I think we in the Christian community talk about choice a lot in terms of, you know, romantic relationship. But that really applies to friends, that applies to strangers the way that God calls us to love all people. It applies to our bloodline families and applies to God too. And you know that I'm writing a book but I talk about a lot of this idea of choice and love because God did give us this huge gift of choice and it's something that we have to. Love is something we have to continually choose every day.</p>
 
                 <p className="speakerName">Allina: </p>
@@ -168,37 +168,37 @@ export default function Episode4() {
 
                 <p>Yeah, I really just think the ministry, when you're talking about ministering to the orphan, there's so much that you can do of praying for the orphan, of caring for them, of you know, giving supplies to the orphanages, foster care system, there's so many ways. But I think the real ministry, the real root of this is got to get back into the family unit and having the fathers and the mothers speak up again and fight for their children and understanding that responsibility and that care that comes with being a parent or caregiver. So that's a little side introduction into another way that the Lord is unraveling my vision that He has for my life. It goes beyond just meeting the immediate needs of the widow and the orphan. You know, that scripture talks about all the time, you know, care for the widow and the orphan. It goes so far beyond making sure that they're fed or making sure that they're clothed. You know, like we care for the widow and orphan by bringing the family unit together, by bringing the holiness back into our home.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>And that is an immediate need. </p>
 
                 <p className="speakerName">Allina: </p>
                 <p>It so desperately is especially in our country. Like we do not have to go into the nations. We don't have to go into Ukraine to witness the orphans all around us. That spirit, unfortunately and I pray against it and I wish the enemy would stop attacking our country in this way. But the orphan spirit really just rings throughout our nation. We see in inner cities, we see it in schools, we see it in the young girls who feel like they need to find that affirmation in other ways, find that validation of who they are in other ways. And gosh, my heart breaks for that. I wish I could sit here and say that I have this super tangible plan to tackle this and all of you can come alongside me in this. But it is very much still a dream that the Lord is revealing to me.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>And he'll bring the details. He will.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>My heart is there. And I do think we're taking it one step at a time by helping people transform their hearts here at Global You and all the people that we encounter through the journey that we're on here. But there's bigger things coming. I know that there is revival coming in our families and my family and across America. </p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Yeah! God doesn't leave his children. He doesn't leave his families. So, His kingdom is coming.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>Yes, and Amen.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Well, Alina, thank you so much for sharing a piece of your story. I know any time someone shares something deep like that, that is difficult. And so I just want to always recognize and say thank you for sharing with me and with anyone who's listening as well.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>Yeah, absolutely. I think I want to say just one more thing because I don't speak up about my story very often. And you and I have talked about this before. It is because I do carry a level of fear of the way that me speaking up about this story will impact other people who have been intertwined with my story and my journey. And I feel it more empowered and or more convicted whichever direction I want to go, to share more because having a parent, an incarcerated parent is something that is not talked about anywhere. There's just no resources for me to find someone who could have related to my story at the time when I was going through it. So, I am honored and thankful that you have provided a platform for anyone who's listening who might be able to relate of having that type of family dynamic or experiencing the trauma that comes with incarceration in a family unit or with a loved one that is confusing and hard and often shame. But there is redemption. There is light. There is love and grace for those families. Yeah, I just wanted to speak for that.</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Yeah. And that's my deepest prayer and my heart behind the podcast to connect people and to share testimonies of tragedy and heartbreak within families and redemption because we need each other and we need to hear those things and maybe create our own playbook for what we needed.</p>
 
                 <p className="speakerName">Allina: </p>
                 <p>Yeah, absolutely!</p>
 
-                <p className="speakerName">Mary:</p>
+                <p className="speakerName">kailani.btc:</p>
                 <p>Thank you for joining us today. And if this episode could bring education, empathy or hope to those you know, go ahead and share a link. Also, if you have an untold story that you'd like to share, we'd love to meet you. Please apply to be a guest on our podcast at www.untoldstoryproject.org </p>
 
 
@@ -210,4 +210,5 @@ export default function Episode4() {
 
     )
 }
+
 

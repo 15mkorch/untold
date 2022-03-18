@@ -22,7 +22,7 @@ export default function Episode1() {
                     <h1 className='title'>Realizing my Home was Different</h1>
                     <p className='highlight'> "The picture that I had in my head of abuse growing up. It didn't reconcile with my home environment."</p>
                     <div className="buttons">
-                        <a href="https://mary230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
+                        <a href="https://kailani.btc230542.typeform.com/to/YsY6gTYv" target="blank"><button >Join the community</button></a>
 
                     </div>
                 </div>
@@ -40,7 +40,7 @@ export default function Episode1() {
                 </div>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     We all have stories that are behind closed curtains. You know, the ones that are untold. These are not for the faint of heart. We dive into these stories that may have authors who write wish to remain anonymous, yet are ready to expose the light some untouched memories of those who deserve better. Together, we want to spur courage, hope, and education to those who are in similar circumstances.
                 </p>
 
@@ -86,7 +86,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. Especially when you're talking about somebody you love.
                 </p>
 
@@ -100,7 +100,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     That's so beautiful.
                 </p>
 
@@ -114,7 +114,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. It's crazy that even in these situations, no matter where we are, we still have qualities of God in us. It's beautiful. I love that.
                 </p>
 
@@ -152,7 +152,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     And what do you do with that? When you experience other households that are different than yours and their reality is not the same that you live in.
                 </p>
 
@@ -179,7 +179,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     I think sometimes we wait for this tipping points just cause my skin's not bleeding or something, you know, doesn't mean everything's fine.
                 </p>
 
@@ -193,7 +193,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah, you start to go crazy after a while. You're like, is this right? Is this wrong? Am I exaggerating things? Am I really just living in so much fear, or is this real?
                 </p>
 
@@ -203,7 +203,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Which is crazy because no one can see that. There's no proof of it. There's no way to prove it's happening either because the person who's doing it is normally pretty intelligent and they know what they're doing. They know how to do it, and they know how to make you feel.
                 </p>
 
@@ -229,7 +229,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Wow. What a realization that is— that we can look at the person who might have hurt us the most, or manipulated us, or whatever it may be, and realize that God loves them just as much as he loves me.
                 </p>
 
@@ -251,7 +251,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Have you been growing in that? What steps have you taken to start to trust more people?
                 </p>
 
@@ -261,7 +261,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Trusting before they haven't earned it yet. That's, that's big.
                 </p>
 
@@ -271,7 +271,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     I’m so proud of you for taking those steps and continuing to take those steps. This is an example of that too. I mean, you're sharing with your story and trusting people with that, even people you don’t know.
                 </p>
 
@@ -285,7 +285,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. I completely understand. Thinking back to our younger selves, this question of “What did I need” has been a huge discovery process. That's a huge reason why I started this podcast.
                 </p>
 
@@ -299,7 +299,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. That's a whole separate concept to even deal with and understand. I feel like you're right. A lot of us go through these points of needing to process all the bad things that happened, but what didn't happen, that should have, there is almost another type of trauma.
                 </p>
 
@@ -313,7 +313,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     And that's okay. It's okay to be sad about those things. That is what I've been thinking and praying about as well.
                 </p>
 
@@ -323,7 +323,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     So, Taylor, if you think about other people who grew up like you, grew up maybe with a lot of fear and a lot of hurt in your household and are processing these things as an adult, what would you want them to know?
                 </p>
 
@@ -345,7 +345,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Taylor, I commend you for all of those things that you just mentioned. You walk in so much grace for those around you. You love people so well and have a big heart to fight for justice. And I love seeing you thrive in your job right now with people who grew up in homes who are in some ways similar to yours and in some ways, with different types of trauma. I commend you for not only sharing your story, but living out love in a really radical way.
                 </p>
 
@@ -359,7 +359,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     All we can do is lean on him sometimes because we definitely don't have the power to do it ourselves. Especially after seeing some of the things that you did growing up.
                 </p>
 
@@ -393,7 +393,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     And I'm so sorry. Those experiences are hard. And I think sometimes, you know, we'd rather have the scars to prove that to ourselves, that it wasn't right, because you just keep going crazy in your head.
                 </p>
 
@@ -403,7 +403,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. I feel like a more accurate way to say the phrase is “sticks and stones might break my bones, but words will actually kill you. They'll actually kill your heart. Yes. Because of words cause you to believe things about yourself. That aren't true in that moment. I was being told. That I wasn't worth treating with respect and patience and grace.
                 </p>
 
@@ -413,7 +413,7 @@ export default function Episode1() {
                 </p>
 
                 <p>
-                    Mary:
+                    kailani.btc:
                     Yeah. And I know you've been processing through these things, but I just don't want anyone to leave without being validated. And the fact that, that wasn't right. And like you had mentioned earlier, God never designed that. Right. Right, right. Let's totally true. Well, Taylor, I just want to say thank you again.
                 </p>
 
@@ -438,4 +438,5 @@ export default function Episode1() {
 
     )
 }
+
 
