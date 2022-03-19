@@ -23,7 +23,7 @@ export default function Home() {
       <div className="homeContainer">
         <h1 className='homeTitle'>THE UNTOLD</h1>
         <div className='homeSubtitle'>
-          <h2>A community that utilizes art and the anonymity of the block chain to support those who grew up with mentally ill parents.</h2>
+          <h2>A community that utilizes art and the infrastructure of the block chain to support those who grew up with mentally ill parents.</h2>
 
         </div>
         <a href="https://discord.gg/YGQAag67M4" target="blank"><button >Join our Community</button></a>
